@@ -24,7 +24,7 @@
             "last_commit": "2020-12-03T12:31:38Z",
             "owner": "ruanyf",
             "repo": "webpack-demos",
-            "stars": 9567
+            "stars": 9566
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2020-09-03T23:11:20Z",
             "owner": "PatrickJS",
             "repo": "NG6-starter",
-            "stars": 1889
+            "stars": 1888
           }
         },
         {
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:06:49.983Z",
+    "last_updated": "2026-08-14T18:05:41.123Z",
     "original_repository": "webpack-china/awesome-webpack-cn",
     "original_repository_sha": "34889dbb98ed2b5f83fb900e540652f834e99a3d",
     "enhanced_repository": "enhansome/enhansome-webpack-cn",
