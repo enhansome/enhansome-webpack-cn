@@ -24,7 +24,7 @@
             "last_commit": "2020-12-03T12:31:38Z",
             "owner": "ruanyf",
             "repo": "webpack-demos",
-            "stars": 9566
+            "stars": 9567
           }
         },
         {
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:05:41.123Z",
+    "last_updated": "2026-08-15T17:34:26.208Z",
     "original_repository": "webpack-china/awesome-webpack-cn",
     "original_repository_sha": "34889dbb98ed2b5f83fb900e540652f834e99a3d",
     "enhanced_repository": "enhansome/enhansome-webpack-cn",
