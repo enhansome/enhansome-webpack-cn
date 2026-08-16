@@ -61,7 +61,7 @@
 
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,980 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-15 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,973 | 🐛 141 | 🌐 JavaScript | 📅 2026-08-16 | `webpack`
 
 #### :closed\_book: webpack4.x
 
@@ -101,7 +101,7 @@
 #### :book: 文件体积
 
 * [彻底解决 webpack 打包文件体积过大](http://www.jianshu.com/p/a64735eb0e2b) | `clinyong` | 2016-03-12
-* [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2016-04-20
+* [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) ⭐ 4,654 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2016-04-20
 * [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
 * [Webpack的dll功能](https://segmentfault.com/a/1190000005969643) | `王成` | 2016-07-15
 * [webpack 如何把代码内联进html中？](https://gold.xitu.io/post/587476168d6d810058a0a18a) | `滴滴公共前端团队 - 水乙` | 2017-01-11
@@ -184,9 +184,9 @@
 
 #### :closed\_book: 原理及源码分析
 
-* [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-04
-* [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-11
-* [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-28
+* [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99) ⭐ 4,654 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-04
+* [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100) ⭐ 4,654 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-11
+* [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101) ⭐ 4,654 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-28
 * [webpack编译流程漫谈](https://github.com/slashhuang/blog/issues/1) ⭐ 295 | 🐛 12 | 🌐 JavaScript | 📅 2023-05-14 | `slashhuang` | 2016-08-16
 * [Webpack Tutorial: Understanding How it Works](https://github.com/forresst/ityti_fr-FR/blob/master/ag-grid.com/ag-grid-understanding-webpack/README.md) ⭐ 1 | 🐛 1 | 📅 2022-05-23 | `Sean Landsman` | 2017-02-01
 * [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/) | `七珏` | 2016-09-09
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

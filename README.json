@@ -344,7 +344,7 @@
             "last_commit": "2023-09-06T13:30:30Z",
             "owner": "youngwind",
             "repo": "blog",
-            "stars": 4655
+            "stars": 4654
           }
         },
         {
@@ -358,7 +358,7 @@
             "last_commit": "2023-09-06T13:30:30Z",
             "owner": "youngwind",
             "repo": "blog",
-            "stars": 4655
+            "stars": 4654
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2023-09-06T13:30:30Z",
             "owner": "youngwind",
             "repo": "blog",
-            "stars": 4655
+            "stars": 4654
           }
         },
         {
@@ -576,7 +576,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:34:26.208Z",
+    "last_updated": "2026-08-16T17:32:59.171Z",
     "original_repository": "webpack-china/awesome-webpack-cn",
     "original_repository_sha": "34889dbb98ed2b5f83fb900e540652f834e99a3d",
     "enhanced_repository": "enhansome/enhansome-webpack-cn",
