@@ -61,7 +61,7 @@
 
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,968 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-17 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,967 | 🐛 140 | 🌐 JavaScript | 📅 2026-08-18 | `webpack`
 
 #### :closed\_book: webpack4.x
 
@@ -244,7 +244,7 @@
 
 ### :package: webpack & react
 
-* [rekit](https://github.com/supnate/rekit) ⭐ 4,425 | 🐛 104 | 🌐 JavaScript | 📅 2022-12-03 | `supnate` | 2016
+* [rekit](https://github.com/supnate/rekit) ⭐ 4,424 | 🐛 104 | 🌐 JavaScript | 📅 2022-12-03 | `supnate` | 2016
 * [react-starter-kit](https://github.com/bodyno/react-starter-kit) ⭐ 1,748 | 🐛 27 | 🌐 JavaScript | 📅 2017-12-06 | `bodyno` | 2016
 * [steamer-react](https://github.com/SteamerTeam/steamer-react) ⭐ 202 | 🐛 1 | 🌐 JavaScript | 📅 2018-10-01 | `leehey` | 2016
 * [gt-react-scaffold](https://github.com/vivaxy/gt-react-scaffold) ⚠️ Archived | `vivaxy` | 2017
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
