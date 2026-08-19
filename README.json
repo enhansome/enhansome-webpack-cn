@@ -2,582 +2,600 @@
   "items": [
     {
       "description": "如有好文, 请到此issue里提交文章，或者直接发pull request.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "webpack-demos",
+                  "description": "| 2016",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 40693501,
+                    "language": "JavaScript",
+                    "last_commit": "2020-12-03T12:31:38Z",
+                    "owner": "ruanyf",
+                    "repo": "webpack-demos",
+                    "stars": 9567
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "教你一步步从零构建webpack开发多页面环境",
+                  "description": "| 2017-01-19",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41352446,
+                    "language": null,
+                    "last_commit": "2019-09-28T18:01:39Z",
+                    "owner": "riskers",
+                    "repo": "blog",
+                    "stars": 1127
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": ":closed_book: webpack1.x"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[译]webpack2 快速入门",
+                  "description": "| 2017-01-20",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62981000,
+                    "language": "JavaScript",
+                    "last_commit": "2025-01-06T09:59:45Z",
+                    "owner": "dwqs",
+                    "repo": "blog",
+                    "stars": 3770
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "[译] Webpack 2 有哪些新东西",
+                  "description": "| 2016-02-15",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10098594,
+                    "language": null,
+                    "last_commit": "2016-06-13T11:17:32Z",
+                    "owner": "cssmagic",
+                    "repo": "blog",
+                    "stars": 2781
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "超清 Webpack 2 视频教程 (持续更新)",
+                  "description": "| 2017-05-16",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 87253611,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-05T10:13:51Z",
+                    "owner": "ParryQiu",
+                    "repo": "DevOpenClub-Tech-Webpack2",
+                    "stars": 146
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack2 tree-shaking 编译研究",
+                  "description": "| 2017-01-16",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 78924291,
+                    "language": "JavaScript",
+                    "last_commit": "2017-02-15T09:13:36Z",
+                    "owner": "jschyz",
+                    "repo": "webpack-tree-shaking",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack 2.2: 最终的版本",
+                  "description": "| 2017-01-18",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 79353707,
+                    "language": null,
+                    "last_commit": "2017-03-21T00:28:45Z",
+                    "owner": "hzuhyb",
+                    "repo": "webpack-translate",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack 2及更高版本",
+                  "description": "| 2017-02-02",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 79353707,
+                    "language": null,
+                    "last_commit": "2017-03-21T00:28:45Z",
+                    "owner": "hzuhyb",
+                    "repo": "webpack-translate",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": ":book: webpack2.x 入门"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "es6-webpack2-boilerplate",
+                  "description": "| 2016-12-08",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68348404,
+                    "language": "JavaScript",
+                    "last_commit": "2017-07-31T06:02:52Z",
+                    "owner": "maiwenan",
+                    "repo": "es6-webpack2-boilerplate",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack2-boilerplate",
+                  "description": "| 2016-11-01",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 71966563,
+                    "language": "JavaScript",
+                    "last_commit": "2016-12-27T11:25:22Z",
+                    "owner": "MikeLP",
+                    "repo": "webpack2-boilerplate",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": ":book: webpack2.x boilerplate"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":mortar_board: webpack 入门"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "webpack使用优化（基本篇）",
+                  "description": "| 2016-01-10",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49327652,
+                    "language": "TypeScript",
+                    "last_commit": "2024-03-29T18:26:37Z",
+                    "owner": "lcxfs1991",
+                    "repo": "blog",
+                    "stars": 2182
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack使用优化（react篇）",
+                  "description": "| 2016-04-17",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49327652,
+                    "language": "TypeScript",
+                    "last_commit": "2024-03-29T18:26:37Z",
+                    "owner": "lcxfs1991",
+                    "repo": "blog",
+                    "stars": 2182
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack Performance: The Comprehensive Guide",
+                  "description": "| 2016-10-26",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49327652,
+                    "language": "TypeScript",
+                    "last_commit": "2024-03-29T18:26:37Z",
+                    "owner": "lcxfs1991",
+                    "repo": "blog",
+                    "stars": 2182
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Webpack 构建性能优化探索",
+                  "description": "| 2016-08-28",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 66773885,
+                    "language": null,
+                    "last_commit": "2021-04-06T06:21:54Z",
+                    "owner": "soda-x",
+                    "repo": "blog",
+                    "stars": 748
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack打包分析与性能优化",
+                  "description": "| 2017-02-13",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68683985,
+                    "language": null,
+                    "last_commit": "2023-01-04T12:37:34Z",
+                    "owner": "hawx1993",
+                    "repo": "tech-blog",
+                    "stars": 337
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": ":closed_book: webpack 构建性能优化"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "【翻译】Webpack——令人困惑的地方",
+                  "description": "| 2016-05-04",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13722707,
+                    "language": "HTML",
+                    "last_commit": "2017-05-16T16:38:01Z",
+                    "owner": "chemdemo",
+                    "repo": "chemdemo.github.io",
+                    "stars": 1002
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "基于webpack搭建前端工程解决方案探索",
+                  "description": "| 2015-08-18",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13722707,
+                    "language": "HTML",
+                    "last_commit": "2017-05-16T16:38:01Z",
+                    "owner": "chemdemo",
+                    "repo": "chemdemo.github.io",
+                    "stars": 1002
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "基于 webpack 搭建前端工程基础篇",
+                  "description": "| 2016-07-12",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63173597,
+                    "language": "JavaScript",
+                    "last_commit": "2016-08-22T00:36:09Z",
+                    "owner": "chenbin92",
+                    "repo": "react-redux-webpack-starter",
+                    "stars": 187
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": ":closed_book: webpack 工程化思考与实践"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":mortar_board: webpack 进阶"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "webpack源码学习系列之一：如何实现一个简单的webpack",
+                  "description": "| 2017-02-04",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47445046,
+                    "language": null,
+                    "last_commit": "2023-09-06T13:30:30Z",
+                    "owner": "youngwind",
+                    "repo": "blog",
+                    "stars": 4654
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack源码学习系列之二：code-splitting（代码切割）",
+                  "description": "| 2017-02-11",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47445046,
+                    "language": null,
+                    "last_commit": "2023-09-06T13:30:30Z",
+                    "owner": "youngwind",
+                    "repo": "blog",
+                    "stars": 4654
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack源码学习系列之三：loader 机制",
+                  "description": "| 2017-02-28",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47445046,
+                    "language": null,
+                    "last_commit": "2023-09-06T13:30:30Z",
+                    "owner": "youngwind",
+                    "repo": "blog",
+                    "stars": 4654
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webpack编译流程漫谈",
+                  "description": "| 2016-08-16",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65805560,
+                    "language": "JavaScript",
+                    "last_commit": "2023-05-14T03:50:02Z",
+                    "owner": "slashhuang",
+                    "repo": "blog",
+                    "stars": 295
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Webpack Tutorial: Understanding How it Works",
+                  "description": "| 2017-02-01",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 80638496,
+                    "language": null,
+                    "last_commit": "2022-05-23T12:23:50Z",
+                    "owner": "forresst",
+                    "repo": "ityti_fr-FR",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": ":closed_book: 原理及源码分析"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "如何写一个webpack插件（一）",
+                  "description": "| 2016-01-09",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49327652,
+                    "language": "TypeScript",
+                    "last_commit": "2024-03-29T18:26:37Z",
+                    "owner": "lcxfs1991",
+                    "repo": "blog",
+                    "stars": 2182
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "如何开发一个 Webpack Loader ( 一 )",
+                  "description": "| 2016-05-14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 58716921,
+                    "language": "HTML",
+                    "last_commit": "2021-01-14T06:31:16Z",
+                    "owner": "joeyguo",
+                    "repo": "blog",
+                    "stars": 1283
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": ":closed_book: Plugin 及 Loader 开发"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":mortar_board: webpack 原理与开发"
+        }
+      ],
       "title": "webpack 优秀中文文章"
     },
     {
-      "description": "",
-      "items": [],
-      "title": ":mortar_board: webpack 入门"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "webpack-demos",
-          "description": "| 2016",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-12-03T12:31:38Z",
-            "owner": "ruanyf",
-            "repo": "webpack-demos",
-            "stars": 9567
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "教你一步步从零构建webpack开发多页面环境",
-          "description": "| 2017-01-19",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-09-28T18:01:39Z",
-            "owner": "riskers",
-            "repo": "blog",
-            "stars": 1127
-          }
-        }
-      ],
-      "title": ":closed_book: webpack1.x"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ":closed_book: webpack2.x"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[译]webpack2 快速入门",
-          "description": "| 2017-01-20",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-06T09:59:45Z",
-            "owner": "dwqs",
-            "repo": "blog",
-            "stars": 3770
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[译] Webpack 2 有哪些新东西",
-          "description": "| 2016-02-15",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-06-13T11:17:32Z",
-            "owner": "cssmagic",
-            "repo": "blog",
-            "stars": 2781
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "超清 Webpack 2 视频教程 (持续更新)",
-          "description": "| 2017-05-16",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-05T10:13:51Z",
-            "owner": "ParryQiu",
-            "repo": "DevOpenClub-Tech-Webpack2",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack2 tree-shaking 编译研究",
-          "description": "| 2017-01-16",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-02-15T09:13:36Z",
-            "owner": "jschyz",
-            "repo": "webpack-tree-shaking",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack 2.2: 最终的版本",
-          "description": "| 2017-01-18",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-03-21T00:28:45Z",
-            "owner": "hzuhyb",
-            "repo": "webpack-translate",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack 2及更高版本",
-          "description": "| 2017-02-02",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-03-21T00:28:45Z",
-            "owner": "hzuhyb",
-            "repo": "webpack-translate",
-            "stars": 3
-          }
-        }
-      ],
-      "title": ":book: webpack2.x 入门"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "es6-webpack2-boilerplate",
-          "description": "| 2016-12-08",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-07-31T06:02:52Z",
-            "owner": "maiwenan",
-            "repo": "es6-webpack2-boilerplate",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack2-boilerplate",
-          "description": "| 2016-11-01",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-12-27T11:25:22Z",
-            "owner": "MikeLP",
-            "repo": "webpack2-boilerplate",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack2-boilerplate",
-          "description": "| 2016-07-04",
-          "children": []
-        }
-      ],
-      "title": ":book: webpack2.x boilerplate"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ":mortar_board: webpack 进阶"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "webpack使用优化（基本篇）",
-          "description": "| 2016-01-10",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-29T18:26:37Z",
-            "owner": "lcxfs1991",
-            "repo": "blog",
-            "stars": 2182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack使用优化（react篇）",
-          "description": "| 2016-04-17",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-29T18:26:37Z",
-            "owner": "lcxfs1991",
-            "repo": "blog",
-            "stars": 2182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack Performance: The Comprehensive Guide",
-          "description": "| 2016-10-26",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-29T18:26:37Z",
-            "owner": "lcxfs1991",
-            "repo": "blog",
-            "stars": 2182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Webpack 构建性能优化探索",
-          "description": "| 2016-08-28",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-04-06T06:21:54Z",
-            "owner": "soda-x",
-            "repo": "blog",
-            "stars": 748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack打包分析与性能优化",
-          "description": "| 2017-02-13",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-04T12:37:34Z",
-            "owner": "hawx1993",
-            "repo": "tech-blog",
-            "stars": 337
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack2 终极优化",
-          "description": "| 2017-06-29",
-          "children": []
-        }
-      ],
-      "title": ":closed_book: webpack 构建性能优化"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ":closed_book: webpack针对项目的优化"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "【翻译】Webpack——令人困惑的地方",
-          "description": "| 2016-05-04",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-05-16T16:38:01Z",
-            "owner": "chemdemo",
-            "repo": "chemdemo.github.io",
-            "stars": 1002
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "基于webpack搭建前端工程解决方案探索",
-          "description": "| 2015-08-18",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-05-16T16:38:01Z",
-            "owner": "chemdemo",
-            "repo": "chemdemo.github.io",
-            "stars": 1002
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "基于 webpack 搭建前端工程基础篇",
-          "description": "| 2016-07-12",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-08-22T00:36:09Z",
-            "owner": "chenbin92",
-            "repo": "react-redux-webpack-starter",
-            "stars": 187
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack原理与实战",
-          "description": "| 2017-06-29",
-          "children": []
-        }
-      ],
-      "title": ":closed_book: webpack 工程化思考与实践"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ":mortar_board: webpack 原理与开发"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "webpack源码学习系列之一：如何实现一个简单的webpack",
-          "description": "| 2017-02-04",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-09-06T13:30:30Z",
-            "owner": "youngwind",
-            "repo": "blog",
-            "stars": 4654
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack源码学习系列之二：code-splitting（代码切割）",
-          "description": "| 2017-02-11",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-09-06T13:30:30Z",
-            "owner": "youngwind",
-            "repo": "blog",
-            "stars": 4654
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack源码学习系列之三：loader 机制",
-          "description": "| 2017-02-28",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-09-06T13:30:30Z",
-            "owner": "youngwind",
-            "repo": "blog",
-            "stars": 4654
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webpack编译流程漫谈",
-          "description": "| 2016-08-16",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-14T03:50:02Z",
-            "owner": "slashhuang",
-            "repo": "blog",
-            "stars": 295
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Webpack Tutorial: Understanding How it Works",
-          "description": "| 2017-02-01",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-05-23T12:23:50Z",
-            "owner": "forresst",
-            "repo": "ityti_fr-FR",
-            "stars": 1
-          }
-        }
-      ],
-      "title": ":closed_book: 原理及源码分析"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "如何写一个webpack插件（一）",
-          "description": "| 2016-01-09",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-03-29T18:26:37Z",
-            "owner": "lcxfs1991",
-            "repo": "blog",
-            "stars": 2182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "如何开发一个 Webpack Loader ( 一 )",
-          "description": "| 2016-05-14",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2021-01-14T06:31:16Z",
-            "owner": "joeyguo",
-            "repo": "blog",
-            "stars": 1283
-          }
-        }
-      ],
-      "title": ":closed_book: Plugin 及 Loader 开发"
-    },
-    {
       "description": "如有好的starter kit, 请到此issue里提交章，或者直接发pull request.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rekit",
+              "description": "| 2016",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64779439,
+                "language": "JavaScript",
+                "last_commit": "2022-12-03T04:46:14Z",
+                "owner": "supnate",
+                "repo": "rekit",
+                "stars": 4424
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-starter-kit",
+              "description": "| 2016",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58910553,
+                "language": "JavaScript",
+                "last_commit": "2017-12-06T07:37:48Z",
+                "owner": "bodyno",
+                "repo": "react-starter-kit",
+                "stars": 1748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steamer-react",
+              "description": "| 2016",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49963609,
+                "language": "JavaScript",
+                "last_commit": "2018-10-01T11:14:31Z",
+                "owner": "steamerjs",
+                "repo": "steamer-react",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gt-react-scaffold",
+              "description": "| 2017",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 64630329,
+                "language": "JavaScript",
+                "last_commit": "2024-05-24T05:47:56Z",
+                "owner": "vivaxy",
+                "repo": "gt-react-scaffold",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":package: webpack & react"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "angular2-webpack-starter",
+              "description": "| 2017",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31829770,
+                "language": "JavaScript",
+                "last_commit": "2023-10-07T21:13:11Z",
+                "owner": "PatrickJS",
+                "repo": "angular-webpack-starter",
+                "stars": 10211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NG6-starter (angular1.x)",
+              "description": "| 2016",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35711595,
+                "language": "JavaScript",
+                "last_commit": "2020-09-03T23:11:20Z",
+                "owner": "PatrickJS",
+                "repo": "NG6-starter",
+                "stars": 1888
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "angular2-webpack",
+              "description": "| 2017",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48878697,
+                "language": "JavaScript",
+                "last_commit": "2017-10-13T05:05:58Z",
+                "owner": "preboot",
+                "repo": "angular-webpack",
+                "stars": 1272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "angular2-webpack2-starter",
+              "description": "| 2017",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67509389,
+                "language": "TypeScript",
+                "last_commit": "2022-12-07T17:20:05Z",
+                "owner": "qdouble",
+                "repo": "angular-webpack-starter",
+                "stars": 872
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":package: webpack & angular1/2"
+        }
+      ],
       "title": "webpack 优秀 starter kit"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rekit",
-          "description": "| 2016",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-03T04:46:14Z",
-            "owner": "supnate",
-            "repo": "rekit",
-            "stars": 4424
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-starter-kit",
-          "description": "| 2016",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-12-06T07:37:48Z",
-            "owner": "bodyno",
-            "repo": "react-starter-kit",
-            "stars": 1748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "steamer-react",
-          "description": "| 2016",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-10-01T11:14:31Z",
-            "owner": "steamerjs",
-            "repo": "steamer-react",
-            "stars": 202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gt-react-scaffold",
-          "description": "| 2017",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-05-24T05:47:56Z",
-            "owner": "vivaxy",
-            "repo": "gt-react-scaffold",
-            "stars": 15
-          }
-        }
-      ],
-      "title": ":package: webpack & react"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "angular2-webpack-starter",
-          "description": "| 2017",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-07T21:13:11Z",
-            "owner": "PatrickJS",
-            "repo": "angular-webpack-starter",
-            "stars": 10211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NG6-starter (angular1.x)",
-          "description": "| 2016",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-09-03T23:11:20Z",
-            "owner": "PatrickJS",
-            "repo": "NG6-starter",
-            "stars": 1888
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "angular2-webpack",
-          "description": "| 2017",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-10-13T05:05:58Z",
-            "owner": "preboot",
-            "repo": "angular-webpack",
-            "stars": 1272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "angular2-webpack2-starter",
-          "description": "| 2017",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-07T17:20:05Z",
-            "owner": "qdouble",
-            "repo": "angular-webpack-starter",
-            "stars": 872
-          }
-        }
-      ],
-      "title": ":package: webpack & angular1/2"
-    },
-    {
-      "description": "webpack-tutorial-collection",
-      "items": [],
-      "title": "Credit To"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:42:16.519Z",
+    "last_updated": "2026-08-19T12:58:48.506Z",
     "original_repository": "webpack-china/awesome-webpack-cn",
+    "original_repository_id": 78076226,
     "original_repository_sha": "34889dbb98ed2b5f83fb900e540652f834e99a3d",
     "enhanced_repository": "enhansome/enhansome-webpack-cn",
     "enhanced_repository_description": null,
