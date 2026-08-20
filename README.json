@@ -535,7 +535,7 @@
                 "last_commit": "2023-10-07T21:13:11Z",
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10211
+                "stars": 10210
               }
             },
             {
@@ -565,7 +565,7 @@
                 "last_commit": "2017-10-13T05:05:58Z",
                 "owner": "preboot",
                 "repo": "angular-webpack",
-                "stars": 1272
+                "stars": 1271
               }
             },
             {
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:39:30.004Z",
+    "last_updated": "2026-08-20T17:44:47.913Z",
     "original_repository": "webpack-china/awesome-webpack-cn",
     "original_repository_id": 78076226,
     "original_repository_sha": "34889dbb98ed2b5f83fb900e540652f834e99a3d",
