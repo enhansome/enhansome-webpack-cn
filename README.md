@@ -16,8 +16,8 @@
 
 #### :closed\_book: webpack1.x
 
-* [webpack-demos](https://github.com/ruanyf/webpack-demos) ⭐ 9,566 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-03 | `ruanyf` | 2016
-* [教你一步步从零构建webpack开发多页面环境](https://github.com/riskers/blog/issues/27) ⭐ 1,127 | 🐛 51 | 📅 2019-09-28 | `riskers` | 2017-01-19
+* [webpack-demos](https://github.com/ruanyf/webpack-demos) ⭐ 9,565 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-03 | `ruanyf` | 2016
+* [教你一步步从零构建webpack开发多页面环境](https://github.com/riskers/blog/issues/27) ⭐ 1,127 | 🐛 51 | 📅 2026-08-24 | `riskers` | 2017-01-19
 * [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html) | `VaJoy Larn` | 2015-07-16
 * [webpack 入门及实践](http://www.w3ctech.com//topic/1557) | `zhouweicsu` | 2015-10-30
 * [Webpack傻瓜式指南（一）](http://zhuanlan.zhihu.com/FrontendMagazine/20367175) | `张轩` | 2016
@@ -59,9 +59,9 @@
 
 #### :closed\_book: webpack3.x
 
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,971 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-23 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,973 | 🐛 139 | 🌐 JavaScript | 📅 2026-08-23 | `webpack`
 
 #### :closed\_book: webpack4.x
 
@@ -100,8 +100,8 @@
 
 #### :book: 文件体积
 
-* [彻底解决 webpack 打包文件体积过大](http://www.jianshu.com/p/a64735eb0e2b) | `clinyong` | 2016-03-12
 * [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2016-04-20
+* [彻底解决 webpack 打包文件体积过大](http://www.jianshu.com/p/a64735eb0e2b) | `clinyong` | 2016-03-12
 * [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
 * [Webpack的dll功能](https://segmentfault.com/a/1190000005969643) | `王成` | 2016-07-15
 * [webpack 如何把代码内联进html中？](https://gold.xitu.io/post/587476168d6d810058a0a18a) | `滴滴公共前端团队 - 水乙` | 2017-01-11
@@ -118,18 +118,18 @@
 
 ##### :book: 文件缓存
 
+* [在 Webpack 中分离 vendor 与 app](https://github.com/lmk123/blog/issues/47) ⭐ 626 | 🐛 127 | 📅 2022-04-21 | `lmk123` | 2016-09-12
 * [Webpack中hash与chunkhash的区别，以及js与css的hash指纹解耦方案](http://www.cnblogs.com/ihardcoder/p/5623411.html) | `才子锅锅` | 2016-06-28
 * [Webpack的静态资源持久缓存](http://zcfy.cc/article/long-term-caching-of-static-assets-with-webpack-1204.html) | `yanni4night` | 2016-09-05
 * [使用 Webpack 打包单页应用的正确姿势](http://geek.csdn.net/news/detail/135599) | `陈秋歌` | 2017-01-26
 * [用 webpack 实现持久化缓存](https://sebastianblade.com/using-webpack-to-achieve-long-term-cache/) | `Sebastian Blade` | 2017-01-25
 * [webpack之CommonsChunkPlugin正确打开方式](https://cnodejs.org/topic/58396960c71e606e36aed1db) | `soullcm` | 2016
-* [在 Webpack 中分离 vendor 与 app](https://github.com/lmk123/blog/issues/47) ⭐ 626 | 🐛 127 | 📅 2022-04-21 | `lmk123` | 2016-09-12
 
 ##### :book: 自动刷新及热替换
 
+* [webpack dev server 2.0 有什么新的变化](https://github.com/huangtubiao/webpack-translate/issues/2) ⭐ 3 | 🐛 3 | 📅 2017-03-21 | `leo` | 2017-01-22
 * [Express结合Webpack的全栈自动刷新](http://acgtofe.com/posts/2016/02/full-live-reload-for-express-with-webpack) | `梁砫` | 2016-02-08
 * [手把手深入理解 webpack dev middleware 原理與相關 plugins](https://segmentfault.com/a/1190000005614604#articleHeader11) | `andyyu0920` | 2016-06-01
-* [webpack dev server 2.0 有什么新的变化](https://github.com/huangtubiao/webpack-translate/issues/2) ⭐ 3 | 🐛 3 | 📅 2017-03-21 | `leo` | 2017-01-22
 * [webpack 热加载你站住，我对你好奇很久了](http://mp.weixin.qq.com/s/pW2hBfibOeXN9F3lsk4NVA) | `1000copy` | 2016-12-22
 
 ##### :book: 其它
@@ -217,8 +217,8 @@
 
 #### :closed\_book: 生成代码分析
 
-* [简要分析webpack打包后代码](https://segmentfault.com/a/1190000006814420) | `wjkang` | 2016-09-04
 * [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14) ⭐ 2,182 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-10-26
+* [简要分析webpack打包后代码](https://segmentfault.com/a/1190000006814420) | `wjkang` | 2016-09-04
 * [从 Bundle 文件看 Webpack 模块机制](https://zhuanlan.zhihu.com/p/25954788) | `叶伟伟` | 2017-03-24
 
 #### :closed\_book: 使用 webpack 编写 npm 包
@@ -228,8 +228,8 @@
 
 #### :closed\_book: 其它
 
-* [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
 * [\[webpack\]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) ⭐ 3,948 | 🐛 40 | 📅 2021-01-19 | `zyf394` | 2017-01-04
+* [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
 * [详解Webpack2的那些路径](http://www.qinshenxue.com/article/20170315092242.html) | `前端路迹` | 2017-03-20
 * [webpack 中那些最易混淆的 5 个知识点](https://juejin.cn/post/6844904007362674701) | `卤蛋实验室` | 2019-05-29
 
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
