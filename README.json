@@ -202,10 +202,10 @@
                     "archived": false,
                     "id": 3678731,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T21:16:04Z",
+                    "last_commit": "2026-08-25T17:27:41Z",
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65972
+                    "stars": 65970
                   }
                 }
               ],
@@ -771,7 +771,7 @@
                 "last_commit": "2025-04-11T12:52:02Z",
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41024
+                "stars": 41023
               }
             }
           ],
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:16.730Z",
+    "last_updated": "2026-08-25T17:44:59.330Z",
     "original_repository": "webpack-china/awesome-webpack-cn",
     "original_repository_id": 78076226,
     "original_repository_sha": "34889dbb98ed2b5f83fb900e540652f834e99a3d",
