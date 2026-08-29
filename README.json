@@ -16,7 +16,8 @@
             "owner": "webpack-china",
             "repo": "awesome-webpack-cn",
             "stars": 3794
-          }
+          },
+          "first_seen": "2026-08-29T00:58:08.240Z"
         },
         {
           "children": [
@@ -35,7 +36,8 @@
                     "owner": "ruanyf",
                     "repo": "webpack-demos",
                     "stars": 9565
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "riskers",
                     "repo": "blog",
                     "stars": 1127
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -72,7 +75,8 @@
                     "owner": "dwqs",
                     "repo": "blog",
                     "stars": 3770
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "cssmagic",
                     "repo": "blog",
                     "stars": 2781
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "ParryQiu",
                     "repo": "DevOpenClub-Tech-Webpack2",
                     "stars": 146
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "jschyz",
                     "repo": "webpack-tree-shaking",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "hzuhyb",
                     "repo": "webpack-translate",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -147,7 +155,8 @@
                     "owner": "hzuhyb",
                     "repo": "webpack-translate",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -169,7 +178,8 @@
                     "owner": "maiwenan",
                     "repo": "es6-webpack2-boilerplate",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "MikeLP",
                     "repo": "webpack2-boilerplate",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -202,11 +213,12 @@
                     "archived": false,
                     "id": 3678731,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T21:31:18Z",
+                    "last_commit": "2026-08-28T21:57:53Z",
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65966
-                  }
+                    "stars": 65964
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -235,7 +247,8 @@
                     "owner": "lcxfs1991",
                     "repo": "blog",
                     "stars": 2182
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -250,7 +263,8 @@
                     "owner": "lcxfs1991",
                     "repo": "blog",
                     "stars": 2182
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +279,8 @@
                     "owner": "lcxfs1991",
                     "repo": "blog",
                     "stars": 2182
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "soda-x",
                     "repo": "blog",
                     "stars": 748
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -295,7 +311,8 @@
                     "owner": "hawx1993",
                     "repo": "tech-blog",
                     "stars": 337
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -317,7 +334,8 @@
                     "owner": "youngwind",
                     "repo": "blog",
                     "stars": 4655
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "children": [
@@ -334,7 +352,8 @@
                         "owner": "lmk123",
                         "repo": "blog",
                         "stars": 626
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:58:08.240Z"
                     }
                   ],
                   "description": null,
@@ -356,7 +375,8 @@
                         "owner": "hzuhyb",
                         "repo": "webpack-translate",
                         "stars": 3
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:58:08.240Z"
                     }
                   ],
                   "description": null,
@@ -383,7 +403,8 @@
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
                     "stars": 1002
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -398,7 +419,8 @@
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
                     "stars": 1002
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -413,7 +435,8 @@
                     "owner": "chenbin92",
                     "repo": "react-redux-webpack-starter",
                     "stars": 187
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -442,7 +465,8 @@
                     "owner": "youngwind",
                     "repo": "blog",
                     "stars": 4655
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -457,7 +481,8 @@
                     "owner": "youngwind",
                     "repo": "blog",
                     "stars": 4655
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -472,7 +497,8 @@
                     "owner": "youngwind",
                     "repo": "blog",
                     "stars": 4655
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -487,7 +513,8 @@
                     "owner": "slashhuang",
                     "repo": "blog",
                     "stars": 295
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -502,7 +529,8 @@
                     "owner": "forresst",
                     "repo": "ityti_fr-FR",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -524,7 +552,8 @@
                     "owner": "lcxfs1991",
                     "repo": "blog",
                     "stars": 2182
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 },
                 {
                   "node_type": "item",
@@ -539,7 +568,8 @@
                     "owner": "joeyguo",
                     "repo": "blog",
                     "stars": 1283
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -561,7 +591,8 @@
                     "owner": "lcxfs1991",
                     "repo": "blog",
                     "stars": 2182
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -583,7 +614,8 @@
                     "owner": "cssmagic",
                     "repo": "blog",
                     "stars": 2781
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -605,7 +637,8 @@
                     "owner": "DDFE",
                     "repo": "DDFE-blog",
                     "stars": 3948
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:08.240Z"
                 }
               ],
               "description": null,
@@ -638,7 +671,8 @@
                 "owner": "supnate",
                 "repo": "rekit",
                 "stars": 4424
-              }
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             },
             {
               "node_type": "item",
@@ -653,7 +687,8 @@
                 "owner": "bodyno",
                 "repo": "react-starter-kit",
                 "stars": 1748
-              }
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             },
             {
               "node_type": "item",
@@ -668,7 +703,8 @@
                 "owner": "steamerjs",
                 "repo": "steamer-react",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             },
             {
               "node_type": "item",
@@ -683,7 +719,8 @@
                 "owner": "vivaxy",
                 "repo": "gt-react-scaffold",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             }
           ],
           "description": null,
@@ -705,7 +742,8 @@
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
                 "stars": 10209
-              }
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             },
             {
               "node_type": "item",
@@ -720,7 +758,8 @@
                 "owner": "PatrickJS",
                 "repo": "NG6-starter",
                 "stars": 1888
-              }
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             },
             {
               "node_type": "item",
@@ -735,7 +774,8 @@
                 "owner": "preboot",
                 "repo": "angular-webpack",
                 "stars": 1271
-              }
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             },
             {
               "node_type": "item",
@@ -750,7 +790,8 @@
                 "owner": "qdouble",
                 "repo": "angular-webpack-starter",
                 "stars": 872
-              }
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             }
           ],
           "description": null,
@@ -771,8 +812,9 @@
                 "last_commit": "2025-04-11T12:52:02Z",
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41020
-              }
+                "stars": 41018
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             }
           ],
           "description": null,
@@ -798,7 +840,8 @@
             "owner": "lcxfs1991",
             "repo": "blog",
             "stars": 2182
-          }
+          },
+          "first_seen": "2026-08-29T00:58:08.240Z"
         },
         {
           "children": [
@@ -815,7 +858,8 @@
                 "owner": "ououpao",
                 "repo": "webpack-tutorial-collection",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-29T00:58:08.240Z"
             }
           ],
           "description": null,
@@ -827,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:29:23.273Z",
+    "last_updated": "2026-08-29T00:58:08.240Z",
     "original_repository_info": {
       "archived": false,
       "id": 78076226,
