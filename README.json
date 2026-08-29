@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
+            "homepage": "https://webpack.docschina.org/",
             "id": 78076226,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-15T09:49:21Z",
+            "open_issues": 3,
             "owner": "webpack-china",
             "repo": "awesome-webpack-cn",
-            "stars": 3794
+            "stars": 3794,
+            "topics": [
+              "angular",
+              "react",
+              "vue",
+              "webpack",
+              "webpack2",
+              "webpack3"
+            ]
           },
           "first_seen": "2026-08-29T00:58:08.240Z"
         },
@@ -30,12 +42,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a collection of simple demos of Webpack",
+                    "homepage": null,
                     "id": 40693501,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2020-12-03T12:31:38Z",
+                    "open_issues": 0,
                     "owner": "ruanyf",
                     "repo": "webpack-demos",
-                    "stars": 9565
+                    "stars": 9565,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -46,12 +63,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":pencil2: Blog",
+                    "homepage": "http://riskers.github.io/",
                     "id": 41352446,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-08-24T05:02:03Z",
+                    "open_issues": 51,
                     "owner": "riskers",
                     "repo": "blog",
-                    "stars": 1127
+                    "stars": 1127,
+                    "topics": [
+                      "blog"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -69,12 +93,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":dog: :clap: :star2: Welcome to star",
+                    "homepage": null,
                     "id": 62981000,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-01-06T09:59:45Z",
+                    "open_issues": 68,
                     "owner": "dwqs",
                     "repo": "blog",
-                    "stars": 3770
+                    "stars": 3770,
+                    "topics": [
+                      "blog"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -85,12 +116,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My blog repository. Articles are published as issues. | CSS魔法的博客，所有博文均以 issue 的形式发布。",
+                    "homepage": "http://blog.cssmagic.net/",
                     "id": 10098594,
                     "language": null,
+                    "license": null,
                     "last_commit": "2016-06-13T11:17:32Z",
+                    "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2781
+                    "stars": 2781,
+                    "topics": [
+                      "blog",
+                      "css",
+                      "javascript"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -101,12 +141,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Webpack 2 视频教程课程源码",
+                    "homepage": "https://devopen.club/course/webpack",
                     "id": 87253611,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2026-01-05T10:13:51Z",
+                    "open_issues": 2,
                     "owner": "ParryQiu",
                     "repo": "DevOpenClub-Tech-Webpack2",
-                    "stars": 146
+                    "stars": 146,
+                    "topics": [
+                      "webpack",
+                      "webpack-tutorial",
+                      "webpack2"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -117,12 +166,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "webpack2 tree-shaking 编译研究",
+                    "homepage": null,
                     "id": 78924291,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2017-02-15T09:13:36Z",
+                    "open_issues": 0,
                     "owner": "jschyz",
                     "repo": "webpack-tree-shaking",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -133,12 +187,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 79353707,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-03-21T00:28:45Z",
+                    "open_issues": 3,
                     "owner": "hzuhyb",
                     "repo": "webpack-translate",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -149,12 +208,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 79353707,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-03-21T00:28:45Z",
+                    "open_issues": 3,
                     "owner": "hzuhyb",
                     "repo": "webpack-translate",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -172,12 +236,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于 babel6 和 webpack2 构建的前端开发工作流",
+                    "homepage": null,
                     "id": 68348404,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-07-31T06:02:52Z",
+                    "open_issues": 2,
                     "owner": "maiwenan",
                     "repo": "es6-webpack2-boilerplate",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -188,12 +257,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Create pretty applications based on latest Babel and PostCSS/SASS",
+                    "homepage": null,
                     "id": 71966563,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-12-27T11:25:22Z",
+                    "open_issues": 1,
                     "owner": "MikeLP",
                     "repo": "webpack2-boilerplate",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -211,12 +285,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+                    "homepage": "https://webpack.js.org",
                     "id": 3678731,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T21:57:53Z",
+                    "open_issues": 131,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65964
+                    "stars": 65963,
+                    "topics": [
+                      "amd",
+                      "build-tool",
+                      "commonjs",
+                      "compiler",
+                      "es2015",
+                      "es6",
+                      "esm",
+                      "javascript",
+                      "javascript-compiler",
+                      "javascript-modules",
+                      "loaders",
+                      "module-bundler",
+                      "plugins",
+                      "web",
+                      "web-performance",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -241,12 +337,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "leehey's blog -- 请star或者watch",
+                    "homepage": "https://docschina.org/blog",
                     "id": 49327652,
                     "language": "TypeScript",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2024-03-29T18:26:37Z",
+                    "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182
+                    "stars": 2182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -257,12 +358,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "leehey's blog -- 请star或者watch",
+                    "homepage": "https://docschina.org/blog",
                     "id": 49327652,
                     "language": "TypeScript",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2024-03-29T18:26:37Z",
+                    "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182
+                    "stars": 2182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -273,12 +379,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "leehey's blog -- 请star或者watch",
+                    "homepage": "https://docschina.org/blog",
                     "id": 49327652,
                     "language": "TypeScript",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2024-03-29T18:26:37Z",
+                    "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182
+                    "stars": 2182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -289,12 +400,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Here is my blog",
+                    "homepage": null,
                     "id": 66773885,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-04-06T06:21:54Z",
+                    "open_issues": 26,
                     "owner": "soda-x",
                     "repo": "blog",
-                    "stars": 748
+                    "stars": 748,
+                    "topics": [
+                      "babel",
+                      "blog",
+                      "lerna",
+                      "sinon",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -305,12 +427,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📦My personal tech blog,not regularly update",
+                    "homepage": "http://sf.gg/u/trigkit4/articles",
                     "id": 68683985,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-01-04T12:37:34Z",
+                    "open_issues": 31,
                     "owner": "hawx1993",
                     "repo": "tech-blog",
-                    "stars": 337
+                    "stars": 337,
+                    "topics": [
+                      "blog"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -328,12 +457,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "梁少峰的个人博客",
+                    "homepage": null,
                     "id": 47445046,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-09-06T13:30:30Z",
+                    "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655
+                    "stars": 4655,
+                    "topics": [
+                      "blog",
+                      "react",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -346,12 +485,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "个人技术博客，博文写在 Issues 里。",
+                        "homepage": "https://github.com/lmk123/blog/issues",
                         "id": 29654447,
                         "language": null,
+                        "license": null,
                         "last_commit": "2022-04-21T04:12:30Z",
+                        "open_issues": 127,
                         "owner": "lmk123",
                         "repo": "blog",
-                        "stars": 626
+                        "stars": 626,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:58:08.240Z"
                     }
@@ -369,12 +513,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 79353707,
                         "language": null,
+                        "license": null,
                         "last_commit": "2017-03-21T00:28:45Z",
+                        "open_issues": 3,
                         "owner": "hzuhyb",
                         "repo": "webpack-translate",
-                        "stars": 3
+                        "stars": 3,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:58:08.240Z"
                     }
@@ -397,12 +546,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "dmyang blog",
+                    "homepage": null,
                     "id": 13722707,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2017-05-16T16:38:01Z",
+                    "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1002
+                    "stars": 1002,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -413,12 +567,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "dmyang blog",
+                    "homepage": null,
                     "id": 13722707,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2017-05-16T16:38:01Z",
+                    "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1002
+                    "stars": 1002,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -429,12 +588,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learning react",
+                    "homepage": null,
                     "id": 63173597,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-08-22T00:36:09Z",
+                    "open_issues": 3,
                     "owner": "chenbin92",
                     "repo": "react-redux-webpack-starter",
-                    "stars": 187
+                    "stars": 187,
+                    "topics": [
+                      "babel",
+                      "eslint",
+                      "loader",
+                      "react",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -459,12 +629,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "梁少峰的个人博客",
+                    "homepage": null,
                     "id": 47445046,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-09-06T13:30:30Z",
+                    "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655
+                    "stars": 4655,
+                    "topics": [
+                      "blog",
+                      "react",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -475,12 +655,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "梁少峰的个人博客",
+                    "homepage": null,
                     "id": 47445046,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-09-06T13:30:30Z",
+                    "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655
+                    "stars": 4655,
+                    "topics": [
+                      "blog",
+                      "react",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -491,12 +681,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "梁少峰的个人博客",
+                    "homepage": null,
                     "id": 47445046,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-09-06T13:30:30Z",
+                    "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655
+                    "stars": 4655,
+                    "topics": [
+                      "blog",
+                      "react",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -507,12 +707,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Front-end  tech thoughts and share-ppt",
+                    "homepage": null,
                     "id": 65805560,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-05-14T03:50:02Z",
+                    "open_issues": 12,
                     "owner": "slashhuang",
                     "repo": "blog",
-                    "stars": 295
+                    "stars": 295,
+                    "topics": [
+                      "babel",
+                      "koa2",
+                      "mongodb",
+                      "nodejs",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -523,12 +734,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mon ityti en français",
+                    "homepage": null,
                     "id": 80638496,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2022-05-23T12:23:50Z",
+                    "open_issues": 1,
                     "owner": "forresst",
                     "repo": "ityti_fr-FR",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "francais",
+                      "ityti"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -546,12 +765,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "leehey's blog -- 请star或者watch",
+                    "homepage": "https://docschina.org/blog",
                     "id": 49327652,
                     "language": "TypeScript",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2024-03-29T18:26:37Z",
+                    "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182
+                    "stars": 2182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 },
@@ -562,12 +786,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "joeyguo's blog  请 Watch 或 Star",
+                    "homepage": "https://github.com/joeyguo/blog",
                     "id": 58716921,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2021-01-14T06:31:16Z",
+                    "open_issues": 21,
                     "owner": "joeyguo",
                     "repo": "blog",
-                    "stars": 1283
+                    "stars": 1283,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -585,12 +814,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "leehey's blog -- 请star或者watch",
+                    "homepage": "https://docschina.org/blog",
                     "id": 49327652,
                     "language": "TypeScript",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2024-03-29T18:26:37Z",
+                    "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182
+                    "stars": 2182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -608,12 +842,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My blog repository. Articles are published as issues. | CSS魔法的博客，所有博文均以 issue 的形式发布。",
+                    "homepage": "http://blog.cssmagic.net/",
                     "id": 10098594,
                     "language": null,
+                    "license": null,
                     "last_commit": "2016-06-13T11:17:32Z",
+                    "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2781
+                    "stars": 2781,
+                    "topics": [
+                      "blog",
+                      "css",
+                      "javascript"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -631,12 +874,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":clap: welcome to DDFE's blog",
+                    "homepage": null,
                     "id": 63568049,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2021-01-19T07:04:57Z",
+                    "open_issues": 40,
                     "owner": "DDFE",
                     "repo": "DDFE-blog",
-                    "stars": 3948
+                    "stars": 3948,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
                 }
@@ -665,12 +913,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IDE and toolkit for building scalable web applications with React, Redux and React-router",
+                "homepage": "http://rekit.js.org",
                 "id": 64779439,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-03T04:46:14Z",
+                "open_issues": 104,
                 "owner": "supnate",
                 "repo": "rekit",
-                "stars": 4424
+                "stars": 4424,
+                "topics": [
+                  "react",
+                  "react-router",
+                  "redux",
+                  "rekit"
+                ]
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             },
@@ -681,12 +939,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Start your first React App. By using React, Redux, and React-Router.",
+                "homepage": "https://github.com/bodyno/react-starter-kit",
                 "id": 58910553,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-06T07:37:48Z",
+                "open_issues": 27,
                 "owner": "bodyno",
                 "repo": "react-starter-kit",
-                "stars": 1748
+                "stars": 1748,
+                "topics": [
+                  "babel",
+                  "css",
+                  "react",
+                  "redux",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             },
@@ -697,12 +966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "react redux react-router webpack isomorphic boilerplate/starter kit",
+                "homepage": null,
                 "id": 49963609,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-01T11:14:31Z",
+                "open_issues": 1,
                 "owner": "steamerjs",
                 "repo": "steamer-react",
-                "stars": 202
+                "stars": 202,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             },
@@ -713,12 +987,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🥚A boilerplate for client apps of webpack, react, redux, router...",
+                "homepage": null,
                 "id": 64630329,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-05-24T05:47:56Z",
+                "open_issues": 0,
                 "owner": "vivaxy",
                 "repo": "gt-react-scaffold",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "react",
+                  "redux",
+                  "router",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             }
@@ -736,12 +1020,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Angular Webpack Starter",
+                "homepage": null,
                 "id": 31829770,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-07T21:13:11Z",
+                "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10209
+                "stars": 10209,
+                "topics": [
+                  "angular",
+                  "mfe",
+                  "microfrontend",
+                  "microfrontends",
+                  "typescript",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             },
@@ -752,12 +1048,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":ng: An AngularJS Starter repo for AngularJS + ES6 + Webpack",
+                "homepage": "https://angularclass.github.io/NG6-starter",
                 "id": 35711595,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-09-03T23:11:20Z",
+                "open_issues": 54,
                 "owner": "PatrickJS",
                 "repo": "NG6-starter",
-                "stars": 1888
+                "stars": 1888,
+                "topics": [
+                  "angular1",
+                  "angularclass",
+                  "angularjs",
+                  "gulp",
+                  "ng6-starter",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             },
@@ -768,12 +1076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete, yet simple, starter for Angular v2+ using webpack",
+                "homepage": null,
                 "id": 48878697,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-10-13T05:05:58Z",
+                "open_issues": 58,
                 "owner": "preboot",
                 "repo": "angular-webpack",
-                "stars": 1271
+                "stars": 1271,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             },
@@ -784,12 +1097,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete Angular 6 and Webpack 4 starter seed with minimal and full featured branches. Full featured branch includes: Material Design 2 (Bootstrap 4 branch available as well), @ngrx, HMR, DLLs and optional use of Universal for server-side rendering - Supports AOT (offline) compilation, sync and lazy loading. Karma/Protractor for e2e/unit tests.",
+                "homepage": null,
                 "id": 67509389,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T17:20:05Z",
+                "open_issues": 40,
                 "owner": "qdouble",
                 "repo": "angular-webpack-starter",
-                "stars": 872
+                "stars": 872,
+                "topics": [
+                  "angular",
+                  "angular4",
+                  "aot",
+                  "hmr",
+                  "karma",
+                  "material",
+                  "ngrx",
+                  "ngtools",
+                  "protractor",
+                  "starter",
+                  "treeshaking",
+                  "typescript",
+                  "universal"
+                ]
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             }
@@ -807,12 +1139,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用",
+                "homepage": "https://cangdu.org/elm/",
                 "id": 77189043,
                 "language": "Vue",
+                "license": "GPL-2.0",
                 "last_commit": "2025-04-11T12:52:02Z",
+                "open_issues": 121,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41018
+                "stars": 41018,
+                "topics": [
+                  "es2015",
+                  "flex",
+                  "sass",
+                  "vue",
+                  "vue-router",
+                  "vuex",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             }
@@ -834,12 +1179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "leehey's blog -- 请star或者watch",
+            "homepage": "https://docschina.org/blog",
             "id": 49327652,
             "language": "TypeScript",
+            "license": "CC-BY-4.0",
             "last_commit": "2024-03-29T18:26:37Z",
+            "open_issues": 40,
             "owner": "lcxfs1991",
             "repo": "blog",
-            "stars": 2182
+            "stars": 2182,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:08.240Z"
         },
@@ -852,12 +1202,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "webpack 教程资源收集",
+                "homepage": null,
                 "id": 49706063,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-06-14T01:46:11Z",
+                "open_issues": 0,
                 "owner": "ououpao",
                 "repo": "webpack-tutorial-collection",
-                "stars": 299
+                "stars": 299,
+                "topics": [
+                  "react-webpack",
+                  "vue-webpack",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
             }
@@ -871,15 +1230,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:08.240Z",
+    "last_updated": "2026-08-29T04:22:56.689Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
+      "homepage": "https://webpack.docschina.org/",
       "id": 78076226,
       "language": null,
+      "license": null,
       "last_commit": "2022-07-15T09:49:21Z",
+      "open_issues": 3,
       "owner": "webpack-china",
       "repo": "awesome-webpack-cn",
-      "stars": 3794
+      "stars": 3794,
+      "topics": [
+        "angular",
+        "react",
+        "vue",
+        "webpack",
+        "webpack2",
+        "webpack3"
+      ]
     },
     "original_repository_sha": "34889dbb98ed2b5f83fb900e540652f834e99a3d",
     "enhanced_repository": "enhansome/enhansome-webpack-cn",
