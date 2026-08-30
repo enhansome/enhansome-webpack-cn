@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T19:07:58Z",
+                    "last_commit": "2026-08-30T18:20:48Z",
                     "open_issues": 134,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65964,
+                    "stars": 65963,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -466,7 +466,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655,
+                    "stars": 4656,
                     "topics": [
                       "blog",
                       "react",
@@ -638,7 +638,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655,
+                    "stars": 4656,
                     "topics": [
                       "blog",
                       "react",
@@ -664,7 +664,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655,
+                    "stars": 4656,
                     "topics": [
                       "blog",
                       "react",
@@ -690,7 +690,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655,
+                    "stars": 4656,
                     "topics": [
                       "blog",
                       "react",
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10209,
+                "stars": 10208,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1085,7 +1085,7 @@
                 "open_issues": 58,
                 "owner": "preboot",
                 "repo": "angular-webpack",
-                "stars": 1271,
+                "stars": 1270,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1148,7 +1148,7 @@
                 "open_issues": 121,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41017,
+                "stars": 41018,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:44:10.540Z",
+    "last_updated": "2026-08-30T19:49:48.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",

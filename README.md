@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,964 | 🐛 134 | 🌐 JavaScript | 📅 2026-08-29 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,963 | 🐛 134 | 🌐 JavaScript | 📅 2026-08-30 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -100,7 +100,7 @@
 
 #### :book: 文件体积
 
-* [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2016-04-20
+* [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65) ⭐ 4,656 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2016-04-20
 * [彻底解决 webpack 打包文件体积过大](http://www.jianshu.com/p/a64735eb0e2b) | `clinyong` | 2016-03-12
 * [webpack CommonsChunkPlugin详细教程](https://segmentfault.com/a/1190000006808865) | `wjkang` | 2016-09-03
 * [Webpack的dll功能](https://segmentfault.com/a/1190000005969643) | `王成` | 2016-07-15
@@ -184,9 +184,9 @@
 
 #### :closed\_book: 原理及源码分析
 
-* [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-04
-* [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-11
-* [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101) ⭐ 4,655 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-28
+* [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99) ⭐ 4,656 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-04
+* [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100) ⭐ 4,656 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-11
+* [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101) ⭐ 4,656 | 🐛 116 | 📅 2023-09-06 | `youngwind` | 2017-02-28
 * [webpack编译流程漫谈](https://github.com/slashhuang/blog/issues/1) ⭐ 295 | 🐛 12 | 🌐 JavaScript | 📅 2023-05-14 | `slashhuang` | 2016-08-16
 * [Webpack Tutorial: Understanding How it Works](https://github.com/forresst/ityti_fr-FR/blob/master/ag-grid.com/ag-grid-understanding-webpack/README.md) ⭐ 1 | 🐛 1 | 📅 2022-05-23 | `Sean Landsman` | 2017-02-01
 * [细说 webpack 之流程篇](http://taobaofed.org/blog/2016/09/09/webpack-flow/) | `七珏` | 2016-09-09
@@ -251,14 +251,14 @@
 
 ### :package: webpack & angular1/2
 
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,209 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,208 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
 * [NG6-starter (angular1.x)](https://github.com/AngularClass/NG6-starter) ⭐ 1,888 | 🐛 54 | 🌐 JavaScript | 📅 2020-09-03 | `AngularClass`| 2016
-* [angular2-webpack](https://github.com/preboot/angular2-webpack) ⭐ 1,271 | 🐛 58 | 🌐 JavaScript | 📅 2017-10-13 | `preboot` | 2017
+* [angular2-webpack](https://github.com/preboot/angular2-webpack) ⭐ 1,270 | 🐛 58 | 🌐 JavaScript | 📅 2017-10-13 | `preboot` | 2017
 * [angular2-webpack2-starter](https://github.com/qdouble/angular-webpack2-starter) ⭐ 872 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-07 | `qdouble` | 2017
 
 ### :package: webpack & vue
 
-* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 41,017 | 🐛 121 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 41,018 | 🐛 121 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
 
 ## webpack 中文文档
 
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
