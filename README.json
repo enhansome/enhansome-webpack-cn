@@ -51,7 +51,7 @@
                     "open_issues": 0,
                     "owner": "ruanyf",
                     "repo": "webpack-demos",
-                    "stars": 9564,
+                    "stars": 9565,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -290,8 +290,8 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T19:40:42Z",
-                    "open_issues": 142,
+                    "last_commit": "2026-09-04T19:31:40Z",
+                    "open_issues": 133,
                     "owner": "webpack",
                     "repo": "webpack",
                     "stars": 65961,
@@ -948,7 +948,7 @@
                 "open_issues": 27,
                 "owner": "bodyno",
                 "repo": "react-starter-kit",
-                "stars": 1748,
+                "stars": 1747,
                 "topics": [
                   "babel",
                   "css",
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10207,
+                "stars": 10206,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1085,7 +1085,7 @@
                 "open_issues": 58,
                 "owner": "preboot",
                 "repo": "angular-webpack",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1148,7 +1148,7 @@
                 "open_issues": 121,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41014,
+                "stars": 41011,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:50:05.099Z",
+    "last_updated": "2026-09-04T19:34:42.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
