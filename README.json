@@ -51,7 +51,7 @@
                     "open_issues": 0,
                     "owner": "ruanyf",
                     "repo": "webpack-demos",
-                    "stars": 9565,
+                    "stars": 9563,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -125,7 +125,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2781,
+                    "stars": 2779,
                     "topics": [
                       "blog",
                       "css",
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T19:31:40Z",
-                    "open_issues": 133,
+                    "last_commit": "2026-09-05T19:01:42Z",
+                    "open_issues": 131,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65961,
+                    "stars": 65963,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -851,7 +851,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2781,
+                    "stars": 2779,
                     "topics": [
                       "blog",
                       "css",
@@ -1148,7 +1148,7 @@
                 "open_issues": 121,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41011,
+                "stars": 41010,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:34:42.328Z",
+    "last_updated": "2026-09-05T19:01:46.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
