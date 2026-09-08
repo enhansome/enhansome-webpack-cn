@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-07T20:22:06Z",
-                    "open_issues": 125,
+                    "last_commit": "2026-09-08T18:45:03Z",
+                    "open_issues": 124,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65966,
+                    "stars": 65963,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -436,7 +436,7 @@
                     "open_issues": 31,
                     "owner": "hawx1993",
                     "repo": "tech-blog",
-                    "stars": 337,
+                    "stars": 336,
                     "topics": [
                       "blog"
                     ]
@@ -555,7 +555,7 @@
                     "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1002,
+                    "stars": 1001,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -576,7 +576,7 @@
                     "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1002,
+                    "stars": 1001,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1148,7 +1148,7 @@
                 "open_issues": 121,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41009,
+                "stars": 41006,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:33:47.639Z",
+    "last_updated": "2026-09-08T19:53:52.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
