@@ -16,8 +16,8 @@
 
 #### :closed\_book: webpack1.x
 
-* [webpack-demos](https://github.com/ruanyf/webpack-demos) ⭐ 9,562 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-03 | `ruanyf` | 2016
-* [教你一步步从零构建webpack开发多页面环境](https://github.com/riskers/blog/issues/27) ⭐ 1,124 | 🐛 51 | 📅 2026-08-24 | `riskers` | 2017-01-19
+* [webpack-demos](https://github.com/ruanyf/webpack-demos) ⭐ 9,561 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-03 | `ruanyf` | 2016
+* [教你一步步从零构建webpack开发多页面环境](https://github.com/riskers/blog/issues/27) ⭐ 1,125 | 🐛 51 | 📅 2026-08-24 | `riskers` | 2017-01-19
 * [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html) | `VaJoy Larn` | 2015-07-16
 * [webpack 入门及实践](http://www.w3ctech.com//topic/1557) | `zhouweicsu` | 2015-10-30
 * [Webpack傻瓜式指南（一）](http://zhuanlan.zhihu.com/FrontendMagazine/20367175) | `张轩` | 2016
@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,963 | 🐛 124 | 🌐 JavaScript | 📅 2026-09-08 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,945 | 🐛 130 | 🌐 JavaScript | 📅 2026-09-09 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -244,7 +244,7 @@
 
 ### :package: webpack & react
 
-* [rekit](https://github.com/supnate/rekit) ⭐ 4,421 | 🐛 104 | 🌐 JavaScript | 📅 2022-12-03 | `supnate` | 2016
+* [rekit](https://github.com/supnate/rekit) ⭐ 4,420 | 🐛 104 | 🌐 JavaScript | 📅 2022-12-03 | `supnate` | 2016
 * [react-starter-kit](https://github.com/bodyno/react-starter-kit) ⭐ 1,747 | 🐛 27 | 🌐 JavaScript | 📅 2017-12-06 | `bodyno` | 2016
 * [steamer-react](https://github.com/SteamerTeam/steamer-react) ⭐ 202 | 🐛 1 | 🌐 JavaScript | 📅 2018-10-01 | `leehey` | 2016
 * [gt-react-scaffold](https://github.com/vivaxy/gt-react-scaffold) ⚠️ Archived | `vivaxy` | 2017
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
