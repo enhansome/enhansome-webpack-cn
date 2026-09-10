@@ -125,7 +125,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2779,
+                    "stars": 2778,
                     "topics": [
                       "blog",
                       "css",
@@ -290,8 +290,8 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T14:20:09Z",
-                    "open_issues": 130,
+                    "last_commit": "2026-09-10T18:17:37Z",
+                    "open_issues": 126,
                     "owner": "webpack",
                     "repo": "webpack",
                     "stars": 65945,
@@ -851,7 +851,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2779,
+                    "stars": 2778,
                     "topics": [
                       "blog",
                       "css",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:45:14.292Z",
+    "last_updated": "2026-09-10T19:40:54.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",

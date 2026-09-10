@@ -35,7 +35,7 @@
 #### :book: webpack2.x 入门
 
 * [\[译\]webpack2 快速入门](https://github.com/dwqs/blog/issues/46) ⭐ 3,768 | 🐛 68 | 🌐 JavaScript | 📅 2025-01-06 | `dwqs` | 2017-01-20
-* [\[译\] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) ⭐ 2,779 | 🐛 114 | 📅 2016-06-13 | `cssmagic` | 2016-02-15
+* [\[译\] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) ⭐ 2,778 | 🐛 114 | 📅 2016-06-13 | `cssmagic` | 2016-02-15
 * [超清 Webpack 2 视频教程 (持续更新)](https://github.com/ParryQiu/DevOpenClub-Tech-Webpack2) ⭐ 146 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-05 | `作者：Parry` | 2017-05-16
 * [webpack2 tree-shaking 编译研究](https://github.com/Jschyz/webpack-tree-shaking) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-15 | `Jschyz` | 2017-01-16
 * [webpack 2.2: 最终的版本](https://github.com/huangtubiao/webpack-translate/issues/1) ⭐ 3 | 🐛 3 | 📅 2017-03-21 | `leo` | 2017-01-18
@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,945 | 🐛 130 | 🌐 JavaScript | 📅 2026-09-09 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,945 | 🐛 126 | 🌐 JavaScript | 📅 2026-09-10 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -223,7 +223,7 @@
 
 #### :closed\_book: 使用 webpack 编写 npm 包
 
-* [\[译\] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56) ⭐ 2,779 | 🐛 114 | 📅 2016-06-13 | `cssmagic` | 2016-01-14
+* [\[译\] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56) ⭐ 2,778 | 🐛 114 | 📅 2016-06-13 | `cssmagic` | 2016-01-14
 * [现代前端库开发指南系列（二）：使用 webpack 构建一个库](https://juejin.cn/post/6844904021291958286) | `array_huang` | 2019-12-16
 
 #### :closed\_book: 其它
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
