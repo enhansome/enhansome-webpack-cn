@@ -290,8 +290,8 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T15:32:08Z",
-                    "open_issues": 133,
+                    "last_commit": "2026-09-12T19:12:16Z",
+                    "open_issues": 136,
                     "owner": "webpack",
                     "repo": "webpack",
                     "stars": 65949,
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:41:47.321Z",
+    "last_updated": "2026-09-12T19:19:51.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
