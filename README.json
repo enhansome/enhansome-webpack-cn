@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2022-07-15T09:49:21Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "webpack-china",
             "repo": "awesome-webpack-cn",
             "stars": 3793,
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T19:46:49Z",
-                    "open_issues": 122,
+                    "last_commit": "2026-09-17T20:13:01Z",
+                    "open_issues": 128,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65946,
+                    "stars": 65945,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -466,7 +466,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4656,
+                    "stars": 4655,
                     "topics": [
                       "blog",
                       "react",
@@ -638,7 +638,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4656,
+                    "stars": 4655,
                     "topics": [
                       "blog",
                       "react",
@@ -664,7 +664,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4656,
+                    "stars": 4655,
                     "topics": [
                       "blog",
                       "react",
@@ -690,7 +690,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4656,
+                    "stars": 4655,
                     "topics": [
                       "blog",
                       "react",
@@ -883,7 +883,7 @@
                     "open_issues": 40,
                     "owner": "DDFE",
                     "repo": "DDFE-blog",
-                    "stars": 3949,
+                    "stars": 3948,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10208,
+                "stars": 10209,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1145,10 +1145,10 @@
                 "language": "Vue",
                 "license": "GPL-2.0",
                 "last_commit": "2025-04-11T12:52:02Z",
-                "open_issues": 121,
+                "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41005,
+                "stars": 41007,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1211,7 +1211,7 @@
                 "open_issues": 0,
                 "owner": "ououpao",
                 "repo": "webpack-tutorial-collection",
-                "stars": 299,
+                "stars": 298,
                 "topics": [
                   "react-webpack",
                   "vue-webpack",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:06:41.606Z",
+    "last_updated": "2026-09-17T20:19:53.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
@@ -1239,7 +1239,7 @@
       "language": null,
       "license": null,
       "last_commit": "2022-07-15T09:49:21Z",
-      "open_issues": 3,
+      "open_issues": 2,
       "owner": "webpack-china",
       "repo": "awesome-webpack-cn",
       "stars": 3793,
