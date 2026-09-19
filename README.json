@@ -125,7 +125,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2778,
+                    "stars": 2777,
                     "topics": [
                       "blog",
                       "css",
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T19:18:33Z",
-                    "open_issues": 137,
+                    "last_commit": "2026-09-19T19:10:36Z",
+                    "open_issues": 128,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65944,
+                    "stars": 65942,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -466,7 +466,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655,
+                    "stars": 4654,
                     "topics": [
                       "blog",
                       "react",
@@ -494,7 +494,7 @@
                         "open_issues": 127,
                         "owner": "lmk123",
                         "repo": "blog",
-                        "stars": 626,
+                        "stars": 627,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:58:08.240Z"
@@ -638,7 +638,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655,
+                    "stars": 4654,
                     "topics": [
                       "blog",
                       "react",
@@ -664,7 +664,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655,
+                    "stars": 4654,
                     "topics": [
                       "blog",
                       "react",
@@ -690,7 +690,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4655,
+                    "stars": 4654,
                     "topics": [
                       "blog",
                       "react",
@@ -851,7 +851,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2778,
+                    "stars": 2777,
                     "topics": [
                       "blog",
                       "css",
@@ -883,7 +883,7 @@
                     "open_issues": 40,
                     "owner": "DDFE",
                     "repo": "DDFE-blog",
-                    "stars": 3948,
+                    "stars": 3947,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41007,
+                "stars": 41005,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:35:15.173Z",
+    "last_updated": "2026-09-19T19:18:55.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
