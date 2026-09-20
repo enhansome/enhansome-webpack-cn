@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T19:10:36Z",
-                    "open_issues": 128,
+                    "last_commit": "2026-09-20T19:18:33Z",
+                    "open_issues": 129,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65942,
+                    "stars": 65943,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41005,
+                "stars": 41004,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:18:55.516Z",
+    "last_updated": "2026-09-20T19:26:42.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
