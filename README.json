@@ -102,7 +102,7 @@
                     "open_issues": 68,
                     "owner": "dwqs",
                     "repo": "blog",
-                    "stars": 3768,
+                    "stars": 3769,
                     "topics": [
                       "blog"
                     ]
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-22T19:34:37Z",
-                    "open_issues": 117,
+                    "last_commit": "2026-09-23T19:22:16Z",
+                    "open_issues": 119,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65949,
+                    "stars": 65945,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -555,7 +555,7 @@
                     "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1001,
+                    "stars": 1000,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -576,7 +576,7 @@
                     "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1001,
+                    "stars": 1000,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T20:11:27.838Z",
+    "last_updated": "2026-09-23T20:20:52.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",

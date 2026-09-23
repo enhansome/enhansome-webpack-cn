@@ -34,7 +34,7 @@
 
 #### :book: webpack2.x 入门
 
-* [\[译\]webpack2 快速入门](https://github.com/dwqs/blog/issues/46) ⭐ 3,768 | 🐛 68 | 🌐 JavaScript | 📅 2025-01-06 | `dwqs` | 2017-01-20
+* [\[译\]webpack2 快速入门](https://github.com/dwqs/blog/issues/46) ⭐ 3,769 | 🐛 68 | 🌐 JavaScript | 📅 2025-01-06 | `dwqs` | 2017-01-20
 * [\[译\] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) ⭐ 2,777 | 🐛 114 | 📅 2016-06-13 | `cssmagic` | 2016-02-15
 * [超清 Webpack 2 视频教程 (持续更新)](https://github.com/ParryQiu/DevOpenClub-Tech-Webpack2) ⭐ 146 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-05 | `作者：Parry` | 2017-05-16
 * [webpack2 tree-shaking 编译研究](https://github.com/Jschyz/webpack-tree-shaking) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-15 | `Jschyz` | 2017-01-16
@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,949 | 🐛 117 | 🌐 JavaScript | 📅 2026-09-22 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,945 | 🐛 119 | 🌐 JavaScript | 📅 2026-09-23 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -139,8 +139,8 @@
 
 #### :closed\_book: webpack 工程化思考与实践
 
-* [【翻译】Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13) ⭐ 1,001 | 🐛 15 | 🌐 HTML | 📅 2017-05-16 | `chemdemo` | 2016-05-04
-* [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10) ⭐ 1,001 | 🐛 15 | 🌐 HTML | 📅 2017-05-16 | `chemdemo` | 2015-08-18
+* [【翻译】Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13) ⭐ 1,000 | 🐛 15 | 🌐 HTML | 📅 2017-05-16 | `chemdemo` | 2016-05-04
+* [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10) ⭐ 1,000 | 🐛 15 | 🌐 HTML | 📅 2017-05-16 | `chemdemo` | 2015-08-18
 * [基于 webpack 搭建前端工程基础篇](https://github.com/chenbin92/react-redux-webpack-starter/issues/1) ⭐ 187 | 🐛 3 | 🌐 JavaScript | 📅 2016-08-22  | `chenbin92` | 2016-07-12
 * [webpack原理与实战](https://github.com/gwuhaolin/blog/issues/4) | `gwuhaolin` | 2017-06-29
 * [【译】关于Webpack中一些让人困惑的地方的解答](https://segmentfault.com/a/1190000006151512) | `jrainlau` | 2016-08-03
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
