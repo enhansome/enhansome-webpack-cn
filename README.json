@@ -102,7 +102,7 @@
                     "open_issues": 68,
                     "owner": "dwqs",
                     "repo": "blog",
-                    "stars": 3769,
+                    "stars": 3770,
                     "topics": [
                       "blog"
                     ]
@@ -290,8 +290,8 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-23T19:22:16Z",
-                    "open_issues": 119,
+                    "last_commit": "2026-09-24T19:26:40Z",
+                    "open_issues": 125,
                     "owner": "webpack",
                     "repo": "webpack",
                     "stars": 65945,
@@ -346,7 +346,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2181,
+                    "stars": 2182,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -367,7 +367,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2181,
+                    "stars": 2182,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -388,7 +388,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2181,
+                    "stars": 2182,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -774,7 +774,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2181,
+                    "stars": 2182,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -823,7 +823,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2181,
+                    "stars": 2182,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41005,
+                "stars": 41006,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1188,7 +1188,7 @@
             "open_issues": 40,
             "owner": "lcxfs1991",
             "repo": "blog",
-            "stars": 2181,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:20:52.963Z",
+    "last_updated": "2026-09-24T20:29:32.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
