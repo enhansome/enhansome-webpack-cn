@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-25T15:37:28Z",
-                    "open_issues": 125,
+                    "last_commit": "2026-09-26T19:42:06Z",
+                    "open_issues": 123,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65951,
+                    "stars": 65956,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10209,
+                "stars": 10208,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:28:51.965Z",
+    "last_updated": "2026-09-26T19:50:45.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
