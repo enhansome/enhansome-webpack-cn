@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T22:27:07Z",
-                    "open_issues": 126,
+                    "last_commit": "2026-09-29T21:22:55Z",
+                    "open_issues": 124,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65964,
+                    "stars": 65961,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -922,7 +922,7 @@
                 "open_issues": 104,
                 "owner": "supnate",
                 "repo": "rekit",
-                "stars": 4418,
+                "stars": 4419,
                 "topics": [
                   "react",
                   "react-router",
@@ -948,7 +948,7 @@
                 "open_issues": 27,
                 "owner": "bodyno",
                 "repo": "react-starter-kit",
-                "stars": 1747,
+                "stars": 1748,
                 "topics": [
                   "babel",
                   "css",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 41006,
+                "stars": 41004,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:32:24.862Z",
+    "last_updated": "2026-09-29T21:23:44.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",

@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,964 | 🐛 126 | 🌐 JavaScript | 📅 2026-09-28 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,961 | 🐛 124 | 🌐 JavaScript | 📅 2026-09-29 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -244,8 +244,8 @@
 
 ### :package: webpack & react
 
-* [rekit](https://github.com/supnate/rekit) ⭐ 4,418 | 🐛 104 | 🌐 JavaScript | 📅 2022-12-03 | `supnate` | 2016
-* [react-starter-kit](https://github.com/bodyno/react-starter-kit) ⭐ 1,747 | 🐛 27 | 🌐 JavaScript | 📅 2017-12-06 | `bodyno` | 2016
+* [rekit](https://github.com/supnate/rekit) ⭐ 4,419 | 🐛 104 | 🌐 JavaScript | 📅 2022-12-03 | `supnate` | 2016
+* [react-starter-kit](https://github.com/bodyno/react-starter-kit) ⭐ 1,748 | 🐛 27 | 🌐 JavaScript | 📅 2017-12-06 | `bodyno` | 2016
 * [steamer-react](https://github.com/SteamerTeam/steamer-react) ⭐ 202 | 🐛 1 | 🌐 JavaScript | 📅 2018-10-01 | `leehey` | 2016
 * [gt-react-scaffold](https://github.com/vivaxy/gt-react-scaffold) ⚠️ Archived | `vivaxy` | 2017
 
@@ -258,7 +258,7 @@
 
 ### :package: webpack & vue
 
-* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 41,006 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 41,004 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
 
 ## webpack 中文文档
 
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
