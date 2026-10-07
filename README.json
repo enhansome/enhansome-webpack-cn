@@ -51,7 +51,7 @@
                     "open_issues": 0,
                     "owner": "ruanyf",
                     "repo": "webpack-demos",
-                    "stars": 9560,
+                    "stars": 9559,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T21:34:01Z",
-                    "open_issues": 121,
+                    "last_commit": "2026-10-07T21:50:16Z",
+                    "open_issues": 128,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 66062,
+                    "stars": 66056,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -922,7 +922,7 @@
                 "open_issues": 104,
                 "owner": "supnate",
                 "repo": "rekit",
-                "stars": 4419,
+                "stars": 4417,
                 "topics": [
                   "react",
                   "react-router",
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10209,
+                "stars": 10208,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 40997,
+                "stars": 40995,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:37:09.509Z",
+    "last_updated": "2026-10-07T21:58:22.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
