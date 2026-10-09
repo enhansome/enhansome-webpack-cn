@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "webpack-china",
             "repo": "awesome-webpack-cn",
-            "stars": 3793,
+            "stars": 3792,
             "topics": [
               "angular",
               "react",
@@ -51,7 +51,7 @@
                     "open_issues": 0,
                     "owner": "ruanyf",
                     "repo": "webpack-demos",
-                    "stars": 9560,
+                    "stars": 9559,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -125,7 +125,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2777,
+                    "stars": 2778,
                     "topics": [
                       "blog",
                       "css",
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T22:03:06Z",
-                    "open_issues": 124,
+                    "last_commit": "2026-10-09T20:20:30Z",
+                    "open_issues": 135,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 66058,
+                    "stars": 66055,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -466,7 +466,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4654,
+                    "stars": 4653,
                     "topics": [
                       "blog",
                       "react",
@@ -638,7 +638,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4654,
+                    "stars": 4653,
                     "topics": [
                       "blog",
                       "react",
@@ -664,7 +664,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4654,
+                    "stars": 4653,
                     "topics": [
                       "blog",
                       "react",
@@ -690,7 +690,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4654,
+                    "stars": 4653,
                     "topics": [
                       "blog",
                       "react",
@@ -851,7 +851,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2777,
+                    "stars": 2778,
                     "topics": [
                       "blog",
                       "css",
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10208,
+                "stars": 10207,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1106,7 +1106,7 @@
                 "open_issues": 40,
                 "owner": "qdouble",
                 "repo": "angular-webpack-starter",
-                "stars": 871,
+                "stars": 869,
                 "topics": [
                   "angular",
                   "angular4",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 40995,
+                "stars": 40992,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:03:38.772Z",
+    "last_updated": "2026-10-09T21:40:12.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
@@ -1242,7 +1242,7 @@
       "open_issues": 2,
       "owner": "webpack-china",
       "repo": "awesome-webpack-cn",
-      "stars": 3793,
+      "stars": 3792,
       "topics": [
         "angular",
         "react",
