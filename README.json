@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T20:20:30Z",
-                    "open_issues": 135,
+                    "last_commit": "2026-10-10T20:10:28Z",
+                    "open_issues": 130,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 66055,
+                    "stars": 66058,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -346,7 +346,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182,
+                    "stars": 2181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -367,7 +367,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182,
+                    "stars": 2181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -388,7 +388,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182,
+                    "stars": 2181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -774,7 +774,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182,
+                    "stars": 2181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -823,7 +823,7 @@
                     "open_issues": 40,
                     "owner": "lcxfs1991",
                     "repo": "blog",
-                    "stars": 2182,
+                    "stars": 2181,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10207,
+                "stars": 10206,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 40992,
+                "stars": 40991,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1188,7 +1188,7 @@
             "open_issues": 40,
             "owner": "lcxfs1991",
             "repo": "blog",
-            "stars": 2182,
+            "stars": 2181,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:40:12.379Z",
+    "last_updated": "2026-10-10T20:33:39.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
