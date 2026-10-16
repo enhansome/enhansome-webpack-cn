@@ -51,7 +51,7 @@
                     "open_issues": 0,
                     "owner": "ruanyf",
                     "repo": "webpack-demos",
-                    "stars": 9560,
+                    "stars": 9559,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -290,8 +290,8 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T20:16:08Z",
-                    "open_issues": 116,
+                    "last_commit": "2026-10-16T17:08:05Z",
+                    "open_issues": 112,
                     "owner": "webpack",
                     "repo": "webpack",
                     "stars": 65975,
@@ -466,7 +466,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4649,
+                    "stars": 4647,
                     "topics": [
                       "blog",
                       "react",
@@ -638,7 +638,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4649,
+                    "stars": 4647,
                     "topics": [
                       "blog",
                       "react",
@@ -664,7 +664,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4649,
+                    "stars": 4647,
                     "topics": [
                       "blog",
                       "react",
@@ -690,7 +690,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4649,
+                    "stars": 4647,
                     "topics": [
                       "blog",
                       "react",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:19:53.227Z",
+    "last_updated": "2026-10-16T19:56:50.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
