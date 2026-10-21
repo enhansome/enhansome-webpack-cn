@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,972 | 🐛 115 | 🌐 JavaScript | 📅 2026-10-20 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,971 | 🐛 115 | 🌐 JavaScript | 📅 2026-10-21 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -81,9 +81,9 @@
 
 #### :closed\_book: webpack 构建性能优化
 
-* [webpack使用优化（基本篇）](https://github.com/lcxfs1991/blog/issues/2) ⭐ 2,180 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-01-10
-* [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7) ⭐ 2,180 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-04-17
-* [webpack Performance: The Comprehensive Guide](https://github.com/lcxfs1991/blog/issues/15) ⭐ 2,180 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-10-26
+* [webpack使用优化（基本篇）](https://github.com/lcxfs1991/blog/issues/2) ⭐ 2,179 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-01-10
+* [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7) ⭐ 2,179 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-04-17
+* [webpack Performance: The Comprehensive Guide](https://github.com/lcxfs1991/blog/issues/15) ⭐ 2,179 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-10-26
 * [Webpack 构建性能优化探索](https://github.com/pigcan/blog/issues/1) ⭐ 747 | 🐛 26 | 📅 2021-04-06 | `pigcan` | 2016-08-28
 * [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3) ⭐ 336 | 🐛 31 | 📅 2023-01-04 | `hawx1993` | 2017-02-13
 * [开发工具心得：如何 10 倍提高你的 Webpack 构建效率](https://segmentfault.com/a/1190000005770042) | `紅白` | 2016-06-21
@@ -209,7 +209,7 @@
 
 #### :closed\_book: Plugin 及 Loader 开发
 
-* [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1) ⭐ 2,180 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-01-09
+* [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1) ⭐ 2,179 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-01-09
 * [如何开发一个 Webpack Loader ( 一 )](https://github.com/joeyguo/blog/issues/4) ⭐ 1,281 | 🐛 21 | 🌐 HTML | 📅 2021-01-14 | `joeyguo` | 2016-05-14
 * [✏️ loader知识分享](https://juejin.cn/post/6950092728919130126) | `字节前端` | 2021-04-12
 * [【Webpack进阶】Loader深入解析](https://zhuanlan.zhihu.com/p/360421184) | `维斯特蓝` | 2021-03-27
@@ -217,7 +217,7 @@
 
 #### :closed\_book: 生成代码分析
 
-* [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14) ⭐ 2,180 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-10-26
+* [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14) ⭐ 2,179 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-10-26
 * [简要分析webpack打包后代码](https://segmentfault.com/a/1190000006814420) | `wjkang` | 2016-09-04
 * [从 Bundle 文件看 Webpack 模块机制](https://zhuanlan.zhihu.com/p/25954788) | `叶伟伟` | 2017-03-24
 
@@ -245,7 +245,7 @@
 ### :package: webpack & react
 
 * [rekit](https://github.com/supnate/rekit) ⭐ 4,418 | 🐛 104 | 🌐 JavaScript | 📅 2022-12-03 | `supnate` | 2016
-* [react-starter-kit](https://github.com/bodyno/react-starter-kit) ⭐ 1,747 | 🐛 27 | 🌐 JavaScript | 📅 2017-12-06 | `bodyno` | 2016
+* [react-starter-kit](https://github.com/bodyno/react-starter-kit) ⭐ 1,748 | 🐛 27 | 🌐 JavaScript | 📅 2017-12-06 | `bodyno` | 2016
 * [steamer-react](https://github.com/SteamerTeam/steamer-react) ⭐ 202 | 🐛 1 | 🌐 JavaScript | 📅 2018-10-01 | `leehey` | 2016
 * [gt-react-scaffold](https://github.com/vivaxy/gt-react-scaffold) ⚠️ Archived | `vivaxy` | 2017
 
@@ -258,13 +258,13 @@
 
 ### :package: webpack & vue
 
-* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,974 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,975 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
 
 ## webpack 中文文档
 
 > <https://doc.webpack-china.org/>
 
-* [教你如何读webpack2中文文档](https://github.com/lcxfs1991/blog/issues/17) ⭐ 2,180 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29
+* [教你如何读webpack2中文文档](https://github.com/lcxfs1991/blog/issues/17) ⭐ 2,179 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29
 
 ### Credit To
 
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
