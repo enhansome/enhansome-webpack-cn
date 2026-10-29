@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,973 | 🐛 121 | 🌐 JavaScript | 📅 2026-10-28 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,968 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-29 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -84,7 +84,7 @@
 * [webpack使用优化（基本篇）](https://github.com/lcxfs1991/blog/issues/2) ⭐ 2,179 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-01-10
 * [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7) ⭐ 2,179 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-04-17
 * [webpack Performance: The Comprehensive Guide](https://github.com/lcxfs1991/blog/issues/15) ⭐ 2,179 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-10-26
-* [Webpack 构建性能优化探索](https://github.com/pigcan/blog/issues/1) ⭐ 747 | 🐛 26 | 📅 2021-04-06 | `pigcan` | 2016-08-28
+* [Webpack 构建性能优化探索](https://github.com/pigcan/blog/issues/1) ⭐ 748 | 🐛 26 | 📅 2021-04-06 | `pigcan` | 2016-08-28
 * [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3) ⭐ 336 | 🐛 31 | 📅 2023-01-04 | `hawx1993` | 2017-02-13
 * [开发工具心得：如何 10 倍提高你的 Webpack 构建效率](https://segmentfault.com/a/1190000005770042) | `紅白` | 2016-06-21
 * [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
@@ -251,14 +251,14 @@
 
 ### :package: webpack & angular1/2
 
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,208 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,207 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
 * [NG6-starter (angular1.x)](https://github.com/AngularClass/NG6-starter) ⭐ 1,887 | 🐛 54 | 🌐 JavaScript | 📅 2020-09-03 | `AngularClass`| 2016
 * [angular2-webpack](https://github.com/preboot/angular2-webpack) ⭐ 1,269 | 🐛 58 | 🌐 JavaScript | 📅 2017-10-13 | `preboot` | 2017
 * [angular2-webpack2-starter](https://github.com/qdouble/angular-webpack2-starter) ⭐ 869 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-07 | `qdouble` | 2017
 
 ### :package: webpack & vue
 
-* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,967 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,963 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
 
 ## webpack 中文文档
 
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T19:21:37Z",
-                    "open_issues": 121,
+                    "last_commit": "2026-10-29T21:25:26Z",
+                    "open_issues": 123,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65973,
+                    "stars": 65968,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -409,7 +409,7 @@
                     "open_issues": 26,
                     "owner": "soda-x",
                     "repo": "blog",
-                    "stars": 747,
+                    "stars": 748,
                     "topics": [
                       "babel",
                       "blog",
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10208,
+                "stars": 10207,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 40967,
+                "stars": 40963,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:38:18.512Z",
+    "last_updated": "2026-10-29T21:48:40.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
