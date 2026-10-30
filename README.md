@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,968 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-29 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,969 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-30 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -228,7 +228,7 @@
 
 #### :closed\_book: 其它
 
-* [\[webpack\]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) ⭐ 3,947 | 🐛 40 | 📅 2021-01-19 | `zyf394` | 2017-01-04
+* [\[webpack\]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) ⭐ 3,948 | 🐛 40 | 📅 2021-01-19 | `zyf394` | 2017-01-04
 * [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
 * [详解Webpack2的那些路径](http://www.qinshenxue.com/article/20170315092242.html) | `前端路迹` | 2017-03-20
 * [webpack 中那些最易混淆的 5 个知识点](https://juejin.cn/post/6844904007362674701) | `卤蛋实验室` | 2019-05-29
@@ -251,14 +251,14 @@
 
 ### :package: webpack & angular1/2
 
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,207 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,208 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
 * [NG6-starter (angular1.x)](https://github.com/AngularClass/NG6-starter) ⭐ 1,887 | 🐛 54 | 🌐 JavaScript | 📅 2020-09-03 | `AngularClass`| 2016
 * [angular2-webpack](https://github.com/preboot/angular2-webpack) ⭐ 1,269 | 🐛 58 | 🌐 JavaScript | 📅 2017-10-13 | `preboot` | 2017
 * [angular2-webpack2-starter](https://github.com/qdouble/angular-webpack2-starter) ⭐ 869 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-07 | `qdouble` | 2017
 
 ### :package: webpack & vue
 
-* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,963 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,964 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
 
 ## webpack 中文文档
 
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
