@@ -51,7 +51,7 @@
                     "open_issues": 0,
                     "owner": "ruanyf",
                     "repo": "webpack-demos",
-                    "stars": 9560,
+                    "stars": 9559,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T20:47:39Z",
-                    "open_issues": 123,
+                    "last_commit": "2026-10-31T19:56:24Z",
+                    "open_issues": 114,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65969,
+                    "stars": 65972,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -948,7 +948,7 @@
                 "open_issues": 27,
                 "owner": "bodyno",
                 "repo": "react-starter-kit",
-                "stars": 1748,
+                "stars": 1747,
                 "topics": [
                   "babel",
                   "css",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 40964,
+                "stars": 40963,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:29:10.939Z",
+    "last_updated": "2026-10-31T20:26:51.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
