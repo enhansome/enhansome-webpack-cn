@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T23:48:02Z",
+                    "last_commit": "2026-11-03T20:45:03Z",
                     "open_issues": 116,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65982,
+                    "stars": 65988,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -409,7 +409,7 @@
                     "open_issues": 26,
                     "owner": "soda-x",
                     "repo": "blog",
-                    "stars": 748,
+                    "stars": 747,
                     "topics": [
                       "babel",
                       "blog",
@@ -466,7 +466,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4649,
+                    "stars": 4648,
                     "topics": [
                       "blog",
                       "react",
@@ -555,7 +555,7 @@
                     "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1000,
+                    "stars": 1001,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -576,7 +576,7 @@
                     "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1000,
+                    "stars": 1001,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -638,7 +638,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4649,
+                    "stars": 4648,
                     "topics": [
                       "blog",
                       "react",
@@ -664,7 +664,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4649,
+                    "stars": 4648,
                     "topics": [
                       "blog",
                       "react",
@@ -690,7 +690,7 @@
                     "open_issues": 116,
                     "owner": "youngwind",
                     "repo": "blog",
-                    "stars": 4649,
+                    "stars": 4648,
                     "topics": [
                       "blog",
                       "react",
@@ -1057,7 +1057,7 @@
                 "open_issues": 54,
                 "owner": "PatrickJS",
                 "repo": "NG6-starter",
-                "stars": 1887,
+                "stars": 1886,
                 "topics": [
                   "angular1",
                   "angularclass",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 40965,
+                "stars": 40964,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:52:24.019Z",
+    "last_updated": "2026-11-03T22:17:53.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
