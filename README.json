@@ -125,7 +125,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2777,
+                    "stars": 2776,
                     "topics": [
                       "blog",
                       "css",
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-05T22:33:07Z",
-                    "open_issues": 112,
+                    "last_commit": "2026-11-06T21:57:20Z",
+                    "open_issues": 117,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65994,
+                    "stars": 65992,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -555,7 +555,7 @@
                     "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1001,
+                    "stars": 1000,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -576,7 +576,7 @@
                     "open_issues": 15,
                     "owner": "chemdemo",
                     "repo": "chemdemo.github.io",
-                    "stars": 1001,
+                    "stars": 1000,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -851,7 +851,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2777,
+                    "stars": 2776,
                     "topics": [
                       "blog",
                       "css",
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10210,
+                "stars": 10209,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 40963,
+                "stars": 40960,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:40:09.919Z",
+    "last_updated": "2026-11-06T22:06:15.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
