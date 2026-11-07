@@ -125,7 +125,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2776,
+                    "stars": 2775,
                     "topics": [
                       "blog",
                       "css",
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T21:57:20Z",
-                    "open_issues": 117,
+                    "last_commit": "2026-11-07T20:48:05Z",
+                    "open_issues": 120,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 65992,
+                    "stars": 65993,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -851,7 +851,7 @@
                     "open_issues": 114,
                     "owner": "cssmagic",
                     "repo": "blog",
-                    "stars": 2776,
+                    "stars": 2775,
                     "topics": [
                       "blog",
                       "css",
@@ -1148,7 +1148,7 @@
                 "open_issues": 2,
                 "owner": "bailicangdu",
                 "repo": "vue2-elm",
-                "stars": 40960,
+                "stars": 40959,
                 "topics": [
                   "es2015",
                   "flex",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:06:15.734Z",
+    "last_updated": "2026-11-07T20:51:50.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
