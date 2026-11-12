@@ -2,7 +2,7 @@
 
 ## webpack 优秀中文文章
 
-如有好文, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/1) ⭐ 3,791 | 🐛 2 | 📅 2022-07-15里提交文章，或者直接发pull request.
+如有好文, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/1) ⭐ 3,791 | 🐛 3 | 📅 2026-11-12里提交文章，或者直接发pull request.
 
 ### :mortar\_board: webpack 入门
 
@@ -34,7 +34,7 @@
 
 #### :book: webpack2.x 入门
 
-* [\[译\]webpack2 快速入门](https://github.com/dwqs/blog/issues/46) ⭐ 3,768 | 🐛 68 | 🌐 JavaScript | 📅 2025-01-06 | `dwqs` | 2017-01-20
+* [\[译\]webpack2 快速入门](https://github.com/dwqs/blog/issues/46) ⭐ 3,767 | 🐛 68 | 🌐 JavaScript | 📅 2025-01-06 | `dwqs` | 2017-01-20
 * [\[译\] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58) ⭐ 2,773 | 🐛 114 | 📅 2016-06-13 | `cssmagic` | 2016-02-15
 * [超清 Webpack 2 视频教程 (持续更新)](https://github.com/ParryQiu/DevOpenClub-Tech-Webpack2) ⭐ 146 | 🐛 2 | 🌐 JavaScript | 📅 2026-01-05 | `作者：Parry` | 2017-05-16
 * [webpack2 tree-shaking 编译研究](https://github.com/Jschyz/webpack-tree-shaking) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-15 | `Jschyz` | 2017-01-16
@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 65,999 | 🐛 114 | 🌐 JavaScript | 📅 2026-11-11 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 66,000 | 🐛 116 | 🌐 JavaScript | 📅 2026-11-12 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -240,7 +240,7 @@
 
 ## webpack 优秀 starter kit
 
-如有好的starter kit, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/2) ⭐ 3,791 | 🐛 2 | 📅 2022-07-15里提交章，或者直接发pull request.
+如有好的starter kit, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/2) ⭐ 3,791 | 🐛 3 | 📅 2026-11-12里提交章，或者直接发pull request.
 
 ### :package: webpack & react
 
@@ -251,14 +251,14 @@
 
 ### :package: webpack & angular1/2
 
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,210 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,208 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
 * [NG6-starter (angular1.x)](https://github.com/AngularClass/NG6-starter) ⭐ 1,886 | 🐛 54 | 🌐 JavaScript | 📅 2020-09-03 | `AngularClass`| 2016
 * [angular2-webpack](https://github.com/preboot/angular2-webpack) ⭐ 1,269 | 🐛 58 | 🌐 JavaScript | 📅 2017-10-13 | `preboot` | 2017
 * [angular2-webpack2-starter](https://github.com/qdouble/angular-webpack2-starter) ⭐ 871 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-07 | `qdouble` | 2017
 
 ### :package: webpack & vue
 
-* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,953 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,951 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
 
 ## webpack 中文文档
 
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
