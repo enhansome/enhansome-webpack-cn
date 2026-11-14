@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 66,003 | 🐛 119 | 🌐 JavaScript | 📅 2026-11-13 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 66,004 | 🐛 120 | 🌐 JavaScript | 📅 2026-11-14 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -85,7 +85,7 @@
 * [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7) ⭐ 2,177 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-04-17
 * [webpack Performance: The Comprehensive Guide](https://github.com/lcxfs1991/blog/issues/15) ⭐ 2,177 | 🐛 40 | 🌐 TypeScript | 📅 2024-03-29 | `leehey` | 2016-10-26
 * [Webpack 构建性能优化探索](https://github.com/pigcan/blog/issues/1) ⭐ 746 | 🐛 26 | 📅 2021-04-06 | `pigcan` | 2016-08-28
-* [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3) ⭐ 336 | 🐛 31 | 📅 2023-01-04 | `hawx1993` | 2017-02-13
+* [webpack打包分析与性能优化](https://github.com/hawx1993/tech-blog/issues/3) ⭐ 335 | 🐛 31 | 📅 2023-01-04 | `hawx1993` | 2017-02-13
 * [开发工具心得：如何 10 倍提高你的 Webpack 构建效率](https://segmentfault.com/a/1190000005770042) | `紅白` | 2016-06-21
 * [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638) | `王伟嘉` | 2016-07-27
 * [webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318) | `Abact` | 2016-12-22
@@ -258,7 +258,7 @@
 
 ### :package: webpack & vue
 
-* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,950 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,949 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
 
 ## webpack 中文文档
 
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
