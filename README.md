@@ -2,7 +2,7 @@
 
 ## webpack 优秀中文文章
 
-如有好文, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/1) ⭐ 3,791 | 🐛 3 | 📅 2026-11-12里提交文章，或者直接发pull request.
+如有好文, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/1) ⭐ 3,792 | 🐛 3 | 📅 2026-11-12里提交文章，或者直接发pull request.
 
 ### :mortar\_board: webpack 入门
 
@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 66,008 | 🐛 121 | 🌐 JavaScript | 📅 2026-11-17 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 66,010 | 🐛 113 | 🌐 JavaScript | 📅 2026-11-18 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -228,7 +228,7 @@
 
 #### :closed\_book: 其它
 
-* [\[webpack\]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) ⭐ 3,949 | 🐛 40 | 📅 2021-01-19 | `zyf394` | 2017-01-04
+* [\[webpack\]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) ⭐ 3,948 | 🐛 40 | 📅 2021-01-19 | `zyf394` | 2017-01-04
 * [webpack不适合多页面应用？你写的插件还不够多](http://www.jianshu.com/p/f6a2a47d084d) | `小虫巨蟹` | 2016-09-20
 * [详解Webpack2的那些路径](http://www.qinshenxue.com/article/20170315092242.html) | `前端路迹` | 2017-03-20
 * [webpack 中那些最易混淆的 5 个知识点](https://juejin.cn/post/6844904007362674701) | `卤蛋实验室` | 2019-05-29
@@ -240,7 +240,7 @@
 
 ## webpack 优秀 starter kit
 
-如有好的starter kit, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/2) ⭐ 3,791 | 🐛 3 | 📅 2026-11-12里提交章，或者直接发pull request.
+如有好的starter kit, 请到此[issue](https://github.com/webpack-china/webpack-articles-cn/issues/2) ⭐ 3,792 | 🐛 3 | 📅 2026-11-12里提交章，或者直接发pull request.
 
 ### :package: webpack & react
 
@@ -251,7 +251,7 @@
 
 ### :package: webpack & angular1/2
 
-* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,208 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
+* [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) ⭐ 10,209 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-07 | `AngularClass`| 2017
 * [NG6-starter (angular1.x)](https://github.com/AngularClass/NG6-starter) ⭐ 1,886 | 🐛 54 | 🌐 JavaScript | 📅 2020-09-03 | `AngularClass`| 2016
 * [angular2-webpack](https://github.com/preboot/angular2-webpack) ⭐ 1,269 | 🐛 58 | 🌐 JavaScript | 📅 2017-10-13 | `preboot` | 2017
 * [angular2-webpack2-starter](https://github.com/qdouble/angular-webpack2-starter) ⭐ 871 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-07 | `qdouble` | 2017
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
