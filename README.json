@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "webpack-china",
             "repo": "awesome-webpack-cn",
-            "stars": 3792,
+            "stars": 3791,
             "topics": [
               "angular",
               "react",
@@ -51,7 +51,7 @@
                     "open_issues": 0,
                     "owner": "ruanyf",
                     "repo": "webpack-demos",
-                    "stars": 9558,
+                    "stars": 9555,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -290,11 +290,11 @@
                     "id": 3678731,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T23:19:27Z",
+                    "last_commit": "2026-11-19T22:54:00Z",
                     "open_issues": 113,
                     "owner": "webpack",
                     "repo": "webpack",
-                    "stars": 66010,
+                    "stars": 66014,
                     "topics": [
                       "amd",
                       "build-tool",
@@ -883,7 +883,7 @@
                     "open_issues": 40,
                     "owner": "DDFE",
                     "repo": "DDFE-blog",
-                    "stars": 3948,
+                    "stars": 3949,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:08.240Z"
@@ -922,7 +922,7 @@
                 "open_issues": 104,
                 "owner": "supnate",
                 "repo": "rekit",
-                "stars": 4413,
+                "stars": 4411,
                 "topics": [
                   "react",
                   "react-router",
@@ -1029,7 +1029,7 @@
                 "open_issues": 0,
                 "owner": "PatrickJS",
                 "repo": "angular-webpack-starter",
-                "stars": 10209,
+                "stars": 10208,
                 "topics": [
                   "angular",
                   "mfe",
@@ -1085,7 +1085,7 @@
                 "open_issues": 58,
                 "owner": "preboot",
                 "repo": "angular-webpack",
-                "stars": 1269,
+                "stars": 1268,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:08.240Z"
@@ -1106,7 +1106,7 @@
                 "open_issues": 40,
                 "owner": "qdouble",
                 "repo": "angular-webpack-starter",
-                "stars": 871,
+                "stars": 870,
                 "topics": [
                   "angular",
                   "angular4",
@@ -1230,7 +1230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:22:19.884Z",
+    "last_updated": "2026-11-19T23:34:31.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "[印记中文](https://docschina.org/) - webpack 优秀中文文章",
@@ -1242,7 +1242,7 @@
       "open_issues": 3,
       "owner": "webpack-china",
       "repo": "awesome-webpack-cn",
-      "stars": 3792,
+      "stars": 3791,
       "topics": [
         "angular",
         "react",
