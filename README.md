@@ -16,7 +16,7 @@
 
 #### :closed\_book: webpack1.x
 
-* [webpack-demos](https://github.com/ruanyf/webpack-demos) ⭐ 9,554 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-03 | `ruanyf` | 2016
+* [webpack-demos](https://github.com/ruanyf/webpack-demos) ⭐ 9,552 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-03 | `ruanyf` | 2016
 * [教你一步步从零构建webpack开发多页面环境](https://github.com/riskers/blog/issues/27) ⭐ 1,124 | 🐛 51 | 📅 2026-08-24 | `riskers` | 2017-01-19
 * [一小时包教会 —— webpack 入门指南](http://www.cnblogs.com/vajoy/p/4650467.html) | `VaJoy Larn` | 2015-07-16
 * [webpack 入门及实践](http://www.w3ctech.com//topic/1557) | `zhouweicsu` | 2015-10-30
@@ -59,7 +59,7 @@
 
 #### :closed\_book: webpack3.x
 
-* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 66,016 | 🐛 106 | 🌐 JavaScript | 📅 2026-11-24 | `webpack`
+* [webpack 3 scope-hoisting 做 code splitting](https://github.com/webpack/webpack/tree/master/examples/scope-hoisting) ⭐ 66,018 | 🐛 107 | 🌐 JavaScript | 📅 2026-11-25 | `webpack`
 * [webpack 3: 正式发布!!](http://www.zcfy.cc/article/webpack-3-official-release-webpack-medium-3253.html?t=selection) | `sangle7` | 2017-06-20
 * [【闲聊】webpack 3 来了](https://mp.weixin.qq.com/s?__biz=MjM5NTMwMTAzMg==\&mid=2247483714\&idx=1\&sn=3587b1fe07f226b444ecd812da181742\&chksm=a6fbd285918c5b93406092a651d945addd58c7d31860bf05ea7eb7da3583ce1c84ef3f7c73bc\&mpshare=1\&scene=23\&srcid=0620LYKlqauJCTvdCIsr9YZK#rd) | `TooBug` | 2017-06-20
 
@@ -258,7 +258,7 @@
 
 ### :package: webpack & vue
 
-* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,945 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) ⭐ 40,942 | 🐛 2 | 🌐 Vue | 📅 2025-04-11 | `bailicangdu`| 2017
 
 ## webpack 中文文档
 
@@ -272,4 +272,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
